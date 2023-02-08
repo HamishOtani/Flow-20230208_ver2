@@ -418,7 +418,7 @@
       "home_link_title": "トップページに戻る"
     },
     "newsletter_form": {
-      "newsletter_email": "email@example.com",
+      "newsletter_email": "メールアドレス",
       "submit": "送信する",
       "confirmation": "登録ありがとうございます！"
     },
@@ -430,7 +430,7 @@
       "thanks": "Thanks for joining!"
     },
     "search": {
-      "no_results_html": "Your search for \"{{ terms }}\" did not yield any results.",
+      "no_results_html": "\"{{ terms }}\" の検索結果は見つかりませんでした。",
       "results_for_html": "Your search for \"{{ terms }}\" revealed the following:",
       "title": "検索",
       "placeholder": " ",
