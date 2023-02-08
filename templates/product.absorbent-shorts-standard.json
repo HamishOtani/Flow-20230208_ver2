@@ -56,7 +56,7 @@
           "settings": {
           }
         },
-        "price": {
+        "fc43bc51-ccda-42c7-91fc-dd245112e0c7": {
           "type": "price",
           "settings": {
             "shipping_policy": true,
@@ -197,7 +197,7 @@
         "0bb0c109-42d5-4d5d-9c0d-c9ffd2de33a9",
         "5a96a399-b328-4a05-8b53-d6d0e1d7a2bf",
         "title",
-        "price",
+        "fc43bc51-ccda-42c7-91fc-dd245112e0c7",
         "options",
         "quantity",
         "buy_buttons",
