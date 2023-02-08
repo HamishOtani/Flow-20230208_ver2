@@ -419,8 +419,8 @@
     },
     "newsletter_form": {
       "newsletter_email": "email@example.com",
-      "submit": "email@example.com",
-      "confirmation": "Thanks for subscribing"
+      "submit": "送信する",
+      "confirmation": "登録ありがとうございます！"
     },
     "newsletter_form_section": {
       "header": "Join our mailing list",
