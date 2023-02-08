@@ -423,11 +423,11 @@
       "confirmation": "登録ありがとうございます！"
     },
     "newsletter_form_section": {
-      "header": "Join our mailing list",
-      "header_text": "Email address:",
-      "newsletter_text": "Enter email",
-      "submit": "Join",
-      "thanks": "Thanks for joining!"
+      "header": "会員登録する",
+      "header_text": "メールアドレス：",
+      "newsletter_text": "メールアドレスを入力してください",
+      "submit": "送信",
+      "thanks": "登録ありがとうございます！"
     },
     "search": {
       "no_results_html": "Your search for \"{{ terms }}\" did not yield any results.",
