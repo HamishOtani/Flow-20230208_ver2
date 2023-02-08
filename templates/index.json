@@ -1,0 +1,588 @@
+{
+  "sections": {
+    "image-slideshow": {
+      "type": "image--slideshow",
+      "blocks": {
+        "8cc83d53-21de-476e-9679-822746937948": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/main_2000x1200_1209_01_c35b8027-ed16-4f06-a003-fdaad908a42a.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/main_1400x2200_1209_1.jpg",
+            "title": "deodorant underwear",
+            "text": "Reset - Active - Neutral - Balanceに寄り添った新たなライフデザイン",
+            "button_label": "shop now",
+            "button_link": "shopify:\/\/collections\/all-products",
+            "caption-background": "rgba(0,0,0,0)",
+            "caption-text": "#ffffff",
+            "button-text": "#ffffff",
+            "button-background": "#000000",
+            "captionHorizontal": "center",
+            "captionAlignment": "center"
+          }
+        },
+        "88646bcc-f960-4ba7-94ab-d39c8a564d54": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/main_2000x12001209_01.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/main_2200x14001209_02.jpg",
+            "title": "日常を心地よいリズムに",
+            "text": "日々を頑張るすべての人へ、 それぞれに合った心地よいリズムをサポートしたい。",
+            "button_label": "about us",
+            "button_link": "shopify:\/\/pages\/about",
+            "caption-background": "rgba(0,0,0,0)",
+            "caption-text": "#ffffff",
+            "button-text": "#ffffff",
+            "button-background": "#000000",
+            "captionHorizontal": "center",
+            "captionAlignment": "center"
+          }
+        },
+        "5ce52464-c638-47b4-9c9b-b95644605cb2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/main_2000x12001209_02.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/main_2200x14001209_03.jpg",
+            "title": "ladies",
+            "text": "レディース",
+            "button_label": "shop now",
+            "button_link": "shopify:\/\/collections\/ladies",
+            "caption-background": "rgba(0,0,0,0)",
+            "caption-text": "#ffffff",
+            "button-text": "#ffffff",
+            "button-background": "#000000",
+            "captionHorizontal": "center",
+            "captionAlignment": "center"
+          }
+        },
+        "f152f067-727d-4548-a805-965839e85cbf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/main_2000x1200_1209_06.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/main_1400x2200_1209_06.jpg",
+            "title": "men's",
+            "text": "メンズ",
+            "button_label": "shop now",
+            "button_link": "shopify:\/\/pages\/coming-soon",
+            "caption-background": "rgba(0,0,0,0)",
+            "caption-text": "#ffffff",
+            "button-text": "#ffffff",
+            "button-background": "#000000",
+            "captionHorizontal": "center",
+            "captionAlignment": "center"
+          }
+        },
+        "3b60be49-0dfd-4368-ae3e-c804594d70de": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/main_2000x12001209_04.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/main_2200x14001209_05.jpg",
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "caption-background": "rgba(0,0,0,0)",
+            "caption-text": "#ffffff",
+            "button-text": "#ffffff",
+            "button-background": "#000000",
+            "captionHorizontal": "center",
+            "captionAlignment": "center"
+          }
+        },
+        "550d81a5-e55c-4d19-986f-a7d6c25b5b88": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/main_2000x1200_1209_04.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/main_1400x2200_1209_04.jpg",
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "caption-background": "rgba(0,0,0,0)",
+            "caption-text": "#ffffff",
+            "button-text": "#ffffff",
+            "button-background": "#000000",
+            "captionHorizontal": "center",
+            "captionAlignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "8cc83d53-21de-476e-9679-822746937948",
+        "88646bcc-f960-4ba7-94ab-d39c8a564d54",
+        "5ce52464-c638-47b4-9c9b-b95644605cb2",
+        "f152f067-727d-4548-a805-965839e85cbf",
+        "3b60be49-0dfd-4368-ae3e-c804594d70de",
+        "550d81a5-e55c-4d19-986f-a7d6c25b5b88"
+      ],
+      "settings": {
+        "slider-animation": "fade",
+        "slider-width": "full-width",
+        "vertical-alignment": true,
+        "text-below-image": false,
+        "slider-slide-time": 8,
+        "caption-heading-size": 36,
+        "caption-subheading-size": 18,
+        "caption-button-size": 14,
+        "show-slide-dots": true,
+        "show-slide-arrows": true,
+        "slider-navigation-color": "#ffffff"
+      }
+    },
+    "48b53a29-b055-4717-93a3-a3e8e44dfce2": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17836192432428__48b53a29-b055-4717-93a3-a3e8e44dfce2-167582490685b6e3a8-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ladies_image_20230208.jpg",
+            "link": "shopify:\/\/collections\/ladies",
+            "title": "ladies",
+            "subheading": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": false,
+            "overlay_font_color": "#ffffff",
+            "overlay_color": "#323232"
+          }
+        },
+        "template--17836192432428__48b53a29-b055-4717-93a3-a3e8e44dfce2-167582490685b6e3a8-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/mens_image_20230208.jpg",
+            "link": "shopify:\/\/pages\/coming-soon",
+            "title": "men's",
+            "subheading": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": false,
+            "overlay_font_color": "#ffffff",
+            "overlay_color": "#323232"
+          }
+        }
+      },
+      "block_order": [
+        "template--17836192432428__48b53a29-b055-4717-93a3-a3e8e44dfce2-167582490685b6e3a8-1",
+        "template--17836192432428__48b53a29-b055-4717-93a3-a3e8e44dfce2-167582490685b6e3a8-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "title": "",
+        "richtext": "",
+        "remove-spacing": false,
+        "full-width": true,
+        "section-width": "full",
+        "content-position": "overlay"
+      }
+    },
+    "49edc516-70e4-4f58-aae4-1466dd19a530": {
+      "type": "text--rich-text",
+      "disabled": true,
+      "settings": {
+        "colors": "white",
+        "title": "ladies",
+        "text": "<p>吸水ショーツ<br\/><\/p><p>ごわつきがなく心地よい肌触りで、安心して1日を過ごせるショーツです。<br\/>スタンダードタイプと吸水量がさらにアップしたフルタイプからその日の量にあわせてお選びください。<\/p>",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "1d135063-d67c-4aac-9a04-6952c3b02658": {
+      "type": "collection--featured-collection",
+      "settings": {
+        "colors": "white",
+        "title": "ladies",
+        "richtext": "<p>吸水ショーツ<br\/><\/p><p>ごわつきがなく心地よい肌触りで、安心して1日を過ごせるショーツです。<br\/>スタンダードタイプと吸水量がさらにアップしたフルタイプからその日の量にあわせてお選びください。<\/p>",
+        "collection": "ladies",
+        "grid-desktop": 2,
+        "grid-tablet": 2,
+        "grid-mobile": 1,
+        "rows": 1,
+        "hover-effect": true,
+        "show-vendor": false,
+        "show_view_all": false
+      }
+    },
+    "68e4aeb1-075b-4ca4-8b74-a92b2cda038b": {
+      "type": "text--rich-text",
+      "disabled": true,
+      "settings": {
+        "colors": "white",
+        "title": "4つのポイント",
+        "text": "<p>吸水ショーツ<\/p>",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "pagefly-home": {
+      "type": "pagefly-home",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "6bba0464-12d7-41e5-ba37-e56286051e50": {
+      "type": "text--rich-text",
+      "disabled": true,
+      "settings": {
+        "colors": "white",
+        "title": "",
+        "text": "",
+        "button_label": "about",
+        "button_link": "shopify:\/\/pages\/about"
+      }
+    },
+    "f8b39f76-c77c-4b2b-9ba3-c7553f8301c9": {
+      "type": "text--rich-text",
+      "disabled": true,
+      "settings": {
+        "colors": "white",
+        "title": "",
+        "text": "",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "62b98229-8c52-4aa0-aeed-0fda3644f0b6": {
+      "type": "image--image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/technology_h11200.jpg",
+        "image_height": "30vw",
+        "bg_image_overlay_opacity": 15,
+        "parallax": true,
+        "title": "4つのポイント",
+        "text": "吸水ショーツ",
+        "colors": "light",
+        "textPosition": "center",
+        "textAlignment": "center",
+        "heading--text-size": 36,
+        "text--text-size": 18,
+        "link": "",
+        "button_label": "",
+        "button-text": "#ffffff",
+        "button-background": "#000000"
+      }
+    },
+    "6e2e0269-b82c-4ef9-af7d-10c2b90deeba": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17836192432428__6e2e0269-b82c-4ef9-af7d-10c2b90deeba-167582490685b6e3a8-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4__20230208_80ae066e-b74e-4d16-98ff-f6926b35c2c8.jpg",
+            "link": "",
+            "title": "",
+            "subheading": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": true,
+            "overlay_font_color": "#ffffff",
+            "overlay_color": "#323232"
+          }
+        }
+      },
+      "block_order": [
+        "template--17836192432428__6e2e0269-b82c-4ef9-af7d-10c2b90deeba-167582490685b6e3a8-0"
+      ],
+      "settings": {
+        "colors": "white",
+        "title": "",
+        "richtext": "",
+        "remove-spacing": false,
+        "full-width": false,
+        "section-width": "full",
+        "content-position": "hide"
+      }
+    },
+    "477ee51c-9ca0-44a5-805a-18b2b50d558a": {
+      "type": "advanced-layout--custom-html",
+      "settings": {
+      }
+    },
+    "fdb52bcf-98bb-4e26-a047-9b5c75fbf2ee": {
+      "type": "advanced-layout--custom-html",
+      "blocks": {
+        "template--17223490470188__fdb52bcf-98bb-4e26-a047-9b5c75fbf2ee-1671063592e709a037-0": {
+          "type": "html",
+          "settings": {
+            "code": "<div style=\"text-align:center; padding: 30px 0;\"><\/div>",
+            "width": "100%"
+          }
+        }
+      },
+      "block_order": [
+        "template--17223490470188__fdb52bcf-98bb-4e26-a047-9b5c75fbf2ee-1671063592e709a037-0"
+      ],
+      "settings": {
+      }
+    },
+    "c7559c44-4e9e-4084-8e46-20cc960ea618": {
+      "type": "products--featured-product",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "richtext": "",
+        "featured_product": "amw-カノン-モイストソープ",
+        "product_variant_style": "swatches",
+        "hide_soldout_variants": true,
+        "show-giftwrap": false,
+        "show-vendor": true,
+        "show_product_description": false,
+        "show_quantity_selector": true,
+        "show_add_to_cart": true,
+        "show_smart_checkout": true,
+        "image-placement": "left",
+        "enable_video_loop": false
+      }
+    },
+    "b607472f-2100-43d6-ae1a-ce3abac8210d": {
+      "type": "advanced-layout--custom-html",
+      "blocks": {
+        "template--17836192432428__b607472f-2100-43d6-ae1a-ce3abac8210d-1675840489060cbc19-0": {
+          "type": "html",
+          "settings": {
+            "code": "<div style=\"text-align:center; padding: 12px 0; background-color:#F2F2F2;\"><\/div>",
+            "width": "100%"
+          }
+        }
+      },
+      "block_order": [
+        "template--17836192432428__b607472f-2100-43d6-ae1a-ce3abac8210d-1675840489060cbc19-0"
+      ],
+      "settings": {
+      }
+    },
+    "f85bc518-98d6-40f6-949a-909225ea64ee": {
+      "type": "blog--blog-posts",
+      "blocks": {
+        "template--17223490470188__f85bc518-98d6-40f6-949a-909225ea64ee-1671063592c716af64-0": {
+          "type": "blog",
+          "settings": {
+            "blog": "blog-news"
+          }
+        }
+      },
+      "block_order": [
+        "template--17223490470188__f85bc518-98d6-40f6-949a-909225ea64ee-1671063592c716af64-0"
+      ],
+      "settings": {
+        "colors": "light",
+        "title": "blog & news",
+        "richtext": "",
+        "blog_show_date": true,
+        "post_limit": 3
+      }
+    },
+    "e3bb2d05-0333-4641-a84b-8eb099e1107e": {
+      "type": "advanced-layout--custom-html",
+      "blocks": {
+        "template--17836192432428__e3bb2d05-0333-4641-a84b-8eb099e1107e-1675840489060cbc19-0": {
+          "type": "html",
+          "settings": {
+            "code": "<div style=\"text-align:center; padding: 12px 0; background-color:#F2F2F2;\"><\/div>",
+            "width": "100%"
+          }
+        }
+      },
+      "block_order": [
+        "template--17836192432428__e3bb2d05-0333-4641-a84b-8eb099e1107e-1675840489060cbc19-0"
+      ],
+      "settings": {
+      }
+    },
+    "7128d2f4-05b6-43e4-bc41-52c06d97f235": {
+      "type": "image--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image": "shopify:\/\/shop_images\/moist_soap_image_2000x1200_f55ad2f4-6d75-4861-8987-cd8a6de5dcb9.jpg",
+        "text_overlapping_image": false,
+        "section-width": "full",
+        "layout": "left",
+        "text_alignment": "center",
+        "title": "amw.カノン モイストソープ",
+        "text": "<p>お肌にやさしい無添加の石鹸です。保湿にも優れ、全身にご使用いただけます。<\/p>",
+        "button_label": "shop now",
+        "button_link": "shopify:\/\/products\/amw-カノン-モイストソープ"
+      }
+    },
+    "c0dae922-a48c-466a-818e-bab12d204f60": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--16847731425580__c0dae922-a48c-466a-818e-bab12d204f60-166799566317e0c74c-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/gallery_image_1_8ed8ae53-f41d-44f5-858b-33b5d74a0cec.jpg",
+            "link": "",
+            "title": "",
+            "subheading": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": true,
+            "overlay_font_color": "#ffffff",
+            "overlay_color": "#323232"
+          }
+        },
+        "template--16847731425580__c0dae922-a48c-466a-818e-bab12d204f60-166799566317e0c74c-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/gallery_image_2.jpg",
+            "link": "",
+            "title": "",
+            "subheading": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": true,
+            "overlay_font_color": "#ffffff",
+            "overlay_color": "#323232"
+          }
+        },
+        "c3fd58a3-329c-467a-94d4-f3c1b07893fb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/gallery_image_3.jpg",
+            "link": "",
+            "title": "",
+            "subheading": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": true,
+            "overlay_font_color": "#ffffff",
+            "overlay_color": "#323232"
+          }
+        },
+        "11de9d24-2a10-40cf-82e6-17ce7efb4921": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/gallery_image_11.jpg",
+            "link": "",
+            "title": "",
+            "subheading": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": true,
+            "overlay_font_color": "#ffffff",
+            "overlay_color": "#323232"
+          }
+        }
+      },
+      "block_order": [
+        "template--16847731425580__c0dae922-a48c-466a-818e-bab12d204f60-166799566317e0c74c-0",
+        "template--16847731425580__c0dae922-a48c-466a-818e-bab12d204f60-166799566317e0c74c-1",
+        "c3fd58a3-329c-467a-94d4-f3c1b07893fb",
+        "11de9d24-2a10-40cf-82e6-17ce7efb4921"
+      ],
+      "settings": {
+        "colors": "white",
+        "title": "",
+        "richtext": "",
+        "remove-spacing": true,
+        "full-width": true,
+        "section-width": "full",
+        "content-position": "hide"
+      }
+    },
+    "b93e4193-91bf-492a-91af-ec9ad36ac676": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--16847731425580__b93e4193-91bf-492a-91af-ec9ad36ac676-1668042063372f7e29-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/gallery_image_5.jpg",
+            "link": "",
+            "title": "",
+            "subheading": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": true,
+            "overlay_font_color": "#ffffff",
+            "overlay_color": "#323232"
+          }
+        },
+        "template--16847731425580__b93e4193-91bf-492a-91af-ec9ad36ac676-1668042063372f7e29-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/gallery_image_7.jpg",
+            "link": "",
+            "title": "",
+            "subheading": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": true,
+            "overlay_font_color": "#ffffff",
+            "overlay_color": "#323232"
+          }
+        },
+        "template--16847731425580__b93e4193-91bf-492a-91af-ec9ad36ac676-1668042063372f7e29-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/gallery_image_10.jpg",
+            "link": "",
+            "title": "",
+            "subheading": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": true,
+            "overlay_font_color": "#ffffff",
+            "overlay_color": "#323232"
+          }
+        },
+        "a83f010d-aacb-4332-83ca-2c6e4e8c24c6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/gallery_image_12.jpg",
+            "link": "",
+            "title": "",
+            "subheading": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": true,
+            "overlay_font_color": "#ffffff",
+            "overlay_color": "#323232"
+          }
+        }
+      },
+      "block_order": [
+        "template--16847731425580__b93e4193-91bf-492a-91af-ec9ad36ac676-1668042063372f7e29-0",
+        "template--16847731425580__b93e4193-91bf-492a-91af-ec9ad36ac676-1668042063372f7e29-1",
+        "template--16847731425580__b93e4193-91bf-492a-91af-ec9ad36ac676-1668042063372f7e29-2",
+        "a83f010d-aacb-4332-83ca-2c6e4e8c24c6"
+      ],
+      "settings": {
+        "colors": "white",
+        "title": "",
+        "richtext": "",
+        "remove-spacing": true,
+        "full-width": true,
+        "section-width": "full",
+        "content-position": "hide"
+      }
+    },
+    "e2fe7c68-c568-4af3-9b66-1bf6d966b0e1": {
+      "type": "advanced-layout--custom-html",
+      "blocks": {
+        "template--17836192432428__e2fe7c68-c568-4af3-9b66-1bf6d966b0e1-1675832473a4cb3874-0": {
+          "type": "html",
+          "settings": {
+            "code": "<div style=\"text-align:center; padding: 12px 0; background-color:#F2F2F2;\"><\/div>",
+            "width": "100%"
+          }
+        }
+      },
+      "block_order": [
+        "template--17836192432428__e2fe7c68-c568-4af3-9b66-1bf6d966b0e1-1675832473a4cb3874-0"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "image-slideshow",
+    "48b53a29-b055-4717-93a3-a3e8e44dfce2",
+    "49edc516-70e4-4f58-aae4-1466dd19a530",
+    "1d135063-d67c-4aac-9a04-6952c3b02658",
+    "68e4aeb1-075b-4ca4-8b74-a92b2cda038b",
+    "pagefly-home",
+    "6bba0464-12d7-41e5-ba37-e56286051e50",
+    "f8b39f76-c77c-4b2b-9ba3-c7553f8301c9",
+    "62b98229-8c52-4aa0-aeed-0fda3644f0b6",
+    "6e2e0269-b82c-4ef9-af7d-10c2b90deeba",
+    "477ee51c-9ca0-44a5-805a-18b2b50d558a",
+    "fdb52bcf-98bb-4e26-a047-9b5c75fbf2ee",
+    "c7559c44-4e9e-4084-8e46-20cc960ea618",
+    "b607472f-2100-43d6-ae1a-ce3abac8210d",
+    "f85bc518-98d6-40f6-949a-909225ea64ee",
+    "e3bb2d05-0333-4641-a84b-8eb099e1107e",
+    "7128d2f4-05b6-43e4-bc41-52c06d97f235",
+    "c0dae922-a48c-466a-818e-bab12d204f60",
+    "b93e4193-91bf-492a-91af-ec9ad36ac676",
+    "e2fe7c68-c568-4af3-9b66-1bf6d966b0e1"
+  ]
+}

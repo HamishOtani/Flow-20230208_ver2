@@ -1,0 +1,70 @@
+{
+  "sections": {
+    "04f87107-e8b5-44ac-8941-a7ab0010dd6a": {
+      "type": "advanced-layout--custom-html",
+      "blocks": {
+        "template--17223489945900__04f87107-e8b5-44ac-8941-a7ab0010dd6a-167108985004f55a85-0": {
+          "type": "html",
+          "settings": {
+            "code": "<div style=\"text-align:center; padding: 30px 0;\"><\/div>",
+            "width": "100%"
+          }
+        }
+      },
+      "block_order": [
+        "template--17223489945900__04f87107-e8b5-44ac-8941-a7ab0010dd6a-167108985004f55a85-0"
+      ],
+      "settings": {
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "settings": {
+        "blog-sidebar-link": "",
+        "show_blog_tags": true,
+        "show_recent_posts": true,
+        "blog_show_date": true
+      }
+    },
+    "e1402eea-153f-4740-aa26-3816a1fc3bab": {
+      "type": "advanced-layout--custom-html",
+      "blocks": {
+        "template--17223489945900__e1402eea-153f-4740-aa26-3816a1fc3bab-167108985004f55a85-0": {
+          "type": "html",
+          "settings": {
+            "code": "<div style=\"text-align:center; padding: 60px 0;\"><\/div>",
+            "width": "100%"
+          }
+        }
+      },
+      "block_order": [
+        "template--17223489945900__e1402eea-153f-4740-aa26-3816a1fc3bab-167108985004f55a85-0"
+      ],
+      "settings": {
+      }
+    },
+    "c8e107e5-e804-46a2-ac05-d1b48cf53323": {
+      "type": "advanced-layout--custom-html",
+      "blocks": {
+        "template--17836191908140__c8e107e5-e804-46a2-ac05-d1b48cf53323-1675846546b208221a-0": {
+          "type": "html",
+          "settings": {
+            "code": "<div style=\"text-align:center; padding: 12px 0; background-color:#F2F2F2;\"><\/div>",
+            "width": "100%"
+          }
+        }
+      },
+      "block_order": [
+        "template--17836191908140__c8e107e5-e804-46a2-ac05-d1b48cf53323-1675846546b208221a-0"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "04f87107-e8b5-44ac-8941-a7ab0010dd6a",
+    "main",
+    "e1402eea-153f-4740-aa26-3816a1fc3bab",
+    "c8e107e5-e804-46a2-ac05-d1b48cf53323"
+  ]
+}

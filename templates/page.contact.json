@@ -1,0 +1,145 @@
+{
+  "sections": {
+    "e2490dfa-edc7-48d1-b8c8-dd05ed8140f9": {
+      "type": "advanced-layout--custom-html",
+      "blocks": {
+        "template--17223490568492__e2490dfa-edc7-48d1-b8c8-dd05ed8140f9-167143756225ceec0b-0": {
+          "type": "html",
+          "settings": {
+            "code": "<div style=\"text-align:center; padding: 25px 0;\"><\/div>",
+            "width": "100%"
+          }
+        }
+      },
+      "block_order": [
+        "template--17223490568492__e2490dfa-edc7-48d1-b8c8-dd05ed8140f9-167143756225ceec0b-0"
+      ],
+      "settings": {
+      }
+    },
+    "main": {
+      "type": "template--page-contact",
+      "blocks": {
+        "name": {
+          "type": "text",
+          "settings": {
+            "field-type": "text",
+            "form-field-label": "",
+            "required": false
+          }
+        },
+        "email": {
+          "type": "text",
+          "settings": {
+            "field-type": "email",
+            "form-field-label": "",
+            "required": false
+          }
+        },
+        "message": {
+          "type": "text",
+          "settings": {
+            "field-type": "textbox",
+            "form-field-label": "",
+            "required": false
+          }
+        }
+      },
+      "block_order": [
+        "name",
+        "email",
+        "message"
+      ],
+      "settings": {
+        "banner-image-size": "20vh",
+        "parallax": true,
+        "layout": "below"
+      }
+    },
+    "9e8e5ab5-54b4-421c-b77b-ad97825b7a3d": {
+      "type": "advanced-layout--custom-html",
+      "blocks": {
+        "template--17223490568492__9e8e5ab5-54b4-421c-b77b-ad97825b7a3d-167143756225ceec0b-0": {
+          "type": "html",
+          "settings": {
+            "code": "<div style=\"text-align:center; padding: 25px 0;\"><\/div>",
+            "width": "100%"
+          }
+        }
+      },
+      "block_order": [
+        "template--17223490568492__9e8e5ab5-54b4-421c-b77b-ad97825b7a3d-167143756225ceec0b-0"
+      ],
+      "settings": {
+      }
+    },
+    "0f87236c-eb3f-4848-b0d7-dcae9f33f65b": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17223490568492__0f87236c-eb3f-4848-b0d7-dcae9f33f65b-167149715089123c93-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lafies_image.jpg",
+            "link": "shopify:\/\/collections\/ladies",
+            "title": "ladies",
+            "subheading": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": false,
+            "overlay_font_color": "#ffffff",
+            "overlay_color": "#323232"
+          }
+        },
+        "template--17223490568492__0f87236c-eb3f-4848-b0d7-dcae9f33f65b-167149715089123c93-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/mens_image_20139139-ee2d-4752-9964-ac4c775de956.jpg",
+            "link": "shopify:\/\/pages\/coming-soon",
+            "title": "men's",
+            "subheading": "comming soon",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": false,
+            "overlay_font_color": "#ffffff",
+            "overlay_color": "#323232"
+          }
+        }
+      },
+      "block_order": [
+        "template--17223490568492__0f87236c-eb3f-4848-b0d7-dcae9f33f65b-167149715089123c93-0",
+        "template--17223490568492__0f87236c-eb3f-4848-b0d7-dcae9f33f65b-167149715089123c93-1"
+      ],
+      "settings": {
+        "colors": "white",
+        "title": "",
+        "richtext": "",
+        "remove-spacing": true,
+        "full-width": false,
+        "section-width": "full",
+        "content-position": "overlay"
+      }
+    },
+    "19c90b7d-8744-41cd-bb12-4601d9accf26": {
+      "type": "advanced-layout--custom-html",
+      "blocks": {
+        "template--17836192530732__19c90b7d-8744-41cd-bb12-4601d9accf26-1675840489060cbc19-0": {
+          "type": "html",
+          "settings": {
+            "code": "<div style=\"text-align:center; padding: 12px 0; background-color:#F2F2F2;\"><\/div>",
+            "width": "100%"
+          }
+        }
+      },
+      "block_order": [
+        "template--17836192530732__19c90b7d-8744-41cd-bb12-4601d9accf26-1675840489060cbc19-0"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "e2490dfa-edc7-48d1-b8c8-dd05ed8140f9",
+    "main",
+    "9e8e5ab5-54b4-421c-b77b-ad97825b7a3d",
+    "0f87236c-eb3f-4848-b0d7-dcae9f33f65b",
+    "19c90b7d-8744-41cd-bb12-4601d9accf26"
+  ]
+}

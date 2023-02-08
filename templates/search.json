@@ -1,0 +1,38 @@
+{
+  "wrapper": "div.collection-wrapper",
+  "sections": {
+    "78c6ab10-ab43-4c90-968d-8c35fde41a78": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "title": "",
+        "text": "",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "main": {
+      "type": "template--search",
+      "settings": {
+        "desktop_position": "topbar",
+        "enable_filtering": true,
+        "enable_sorting": true
+      }
+    },
+    "d8d834ee-18a4-4495-9682-2a17d25254c5": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "title": "",
+        "text": "",
+        "button_label": "",
+        "button_link": ""
+      }
+    }
+  },
+  "order": [
+    "78c6ab10-ab43-4c90-968d-8c35fde41a78",
+    "main",
+    "d8d834ee-18a4-4495-9682-2a17d25254c5"
+  ]
+}

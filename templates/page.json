@@ -1,0 +1,136 @@
+{
+  "sections": {
+    "527ed4f5-5489-4598-9dcf-fabf071177eb": {
+      "type": "advanced-layout--custom-html",
+      "blocks": {
+        "template--17223490634028__527ed4f5-5489-4598-9dcf-fabf071177eb-167099516521d8dc84-0": {
+          "type": "html",
+          "settings": {
+            "code": "<div style=\"text-align:center; padding: 60px 0;\"><\/div>",
+            "width": "100%"
+          }
+        }
+      },
+      "block_order": [
+        "template--17223490634028__527ed4f5-5489-4598-9dcf-fabf071177eb-167099516521d8dc84-0"
+      ],
+      "settings": {
+      }
+    },
+    "rich-text-01": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "title": "coming soon",
+        "text": "<p>近侍中に公開予定です。<br\/>もうしばらくお待ちください。<\/p>",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "custom-html-01": {
+      "type": "advanced-layout--custom-html",
+      "settings": {
+      }
+    },
+    "custom-html-02": {
+      "type": "advanced-layout--custom-html",
+      "settings": {
+      }
+    },
+    "custom-html-03": {
+      "type": "advanced-layout--custom-html",
+      "blocks": {
+        "1648804512a39eca6c-0": {
+          "type": "html",
+          "settings": {
+            "code": "<div style=\"text-align:center; padding: 60px 0;\"><\/div>",
+            "width": "100%"
+          }
+        }
+      },
+      "block_order": [
+        "1648804512a39eca6c-0"
+      ],
+      "settings": {
+      }
+    },
+    "main": {
+      "type": "template--page",
+      "disabled": true,
+      "settings": {
+        "page_width": "full-width"
+      }
+    },
+    "80e20a07-f405-4aa8-985b-c656ee07893e": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17223490634028__80e20a07-f405-4aa8-985b-c656ee07893e-1670995166ce74eb6f-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lafies_image.jpg",
+            "link": "shopify:\/\/collections\/ladies",
+            "title": "ladies",
+            "subheading": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": false,
+            "overlay_font_color": "#ffffff",
+            "overlay_color": "#323232"
+          }
+        },
+        "template--17223490634028__80e20a07-f405-4aa8-985b-c656ee07893e-1670995166ce74eb6f-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/mens_image_20139139-ee2d-4752-9964-ac4c775de956.jpg",
+            "link": "",
+            "title": "men's",
+            "subheading": "coming soon",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": false,
+            "overlay_font_color": "#ffffff",
+            "overlay_color": "#323232"
+          }
+        }
+      },
+      "block_order": [
+        "template--17223490634028__80e20a07-f405-4aa8-985b-c656ee07893e-1670995166ce74eb6f-0",
+        "template--17223490634028__80e20a07-f405-4aa8-985b-c656ee07893e-1670995166ce74eb6f-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "title": "",
+        "richtext": "",
+        "remove-spacing": true,
+        "full-width": true,
+        "section-width": "full",
+        "content-position": "overlay"
+      }
+    },
+    "5213afe3-b00c-44f1-a674-3cc9aa9d9fde": {
+      "type": "advanced-layout--custom-html",
+      "blocks": {
+        "template--17836192596268__5213afe3-b00c-44f1-a674-3cc9aa9d9fde-1675840489060cbc19-0": {
+          "type": "html",
+          "settings": {
+            "code": "<div style=\"text-align:center; padding: 12px 0; background-color:#F2F2F2;\"><\/div>",
+            "width": "100%"
+          }
+        }
+      },
+      "block_order": [
+        "template--17836192596268__5213afe3-b00c-44f1-a674-3cc9aa9d9fde-1675840489060cbc19-0"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "527ed4f5-5489-4598-9dcf-fabf071177eb",
+    "rich-text-01",
+    "custom-html-01",
+    "custom-html-02",
+    "custom-html-03",
+    "main",
+    "80e20a07-f405-4aa8-985b-c656ee07893e",
+    "5213afe3-b00c-44f1-a674-3cc9aa9d9fde"
+  ]
+}

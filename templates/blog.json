@@ -1,0 +1,110 @@
+{
+  "sections": {
+    "696f95ae-d0fa-432e-b0a8-35c4e3cdbba6": {
+      "type": "advanced-layout--custom-html",
+      "blocks": {
+        "template--17836191973676__696f95ae-d0fa-432e-b0a8-35c4e3cdbba6-1675846546b208221a-0": {
+          "type": "html",
+          "settings": {
+            "code": "<div style=\"text-align:center; padding: 16px 0;\"><\/div>",
+            "width": "100%"
+          }
+        }
+      },
+      "block_order": [
+        "template--17836191973676__696f95ae-d0fa-432e-b0a8-35c4e3cdbba6-1675846546b208221a-0"
+      ],
+      "settings": {
+      }
+    },
+    "image-with-text-overlay": {
+      "type": "image--image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/blog_main.jpg",
+        "image_height": "40vw",
+        "bg_image_overlay_opacity": 10,
+        "parallax": false,
+        "title": "blog",
+        "text": "",
+        "colors": "light",
+        "textPosition": "center",
+        "textAlignment": "center",
+        "heading--text-size": 32,
+        "text--text-size": 18,
+        "link": "",
+        "button_label": "",
+        "button-text": "#ffffff",
+        "button-background": "#000000"
+      }
+    },
+    "837c667c-c98a-4e28-9062-68f6ca6a3ec4": {
+      "type": "advanced-layout--custom-html",
+      "blocks": {
+        "template--17223490011436__837c667c-c98a-4e28-9062-68f6ca6a3ec4-16710907511800bcd2-0": {
+          "type": "html",
+          "settings": {
+            "code": "<div style=\"text-align:center; padding: 16px 0;\"><\/div>",
+            "width": "100%"
+          }
+        }
+      },
+      "block_order": [
+        "template--17223490011436__837c667c-c98a-4e28-9062-68f6ca6a3ec4-16710907511800bcd2-0"
+      ],
+      "settings": {
+      }
+    },
+    "main": {
+      "type": "template--blog",
+      "settings": {
+        "show_author_name": true,
+        "blog-sidebar-link": "",
+        "show_blog_tags": true,
+        "show_recent_posts": true,
+        "blog_show_date": true
+      }
+    },
+    "57c81483-f699-4084-9491-50e87bb1ff5a": {
+      "type": "advanced-layout--custom-html",
+      "blocks": {
+        "template--17223490011436__57c81483-f699-4084-9491-50e87bb1ff5a-16710907511800bcd2-0": {
+          "type": "html",
+          "settings": {
+            "code": "<div style=\"text-align:center; padding: 16px 0;\"><\/div>",
+            "width": "100%"
+          }
+        }
+      },
+      "block_order": [
+        "template--17223490011436__57c81483-f699-4084-9491-50e87bb1ff5a-16710907511800bcd2-0"
+      ],
+      "settings": {
+      }
+    },
+    "cd79aa99-c8c0-4f92-a5e7-75805ef4ae94": {
+      "type": "advanced-layout--custom-html",
+      "blocks": {
+        "template--17836191973676__cd79aa99-c8c0-4f92-a5e7-75805ef4ae94-1675846546b208221a-0": {
+          "type": "html",
+          "settings": {
+            "code": "<div style=\"text-align:center; padding: 12px 0; background-color:#F2F2F2;\"><\/div>",
+            "width": "100%"
+          }
+        }
+      },
+      "block_order": [
+        "template--17836191973676__cd79aa99-c8c0-4f92-a5e7-75805ef4ae94-1675846546b208221a-0"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "696f95ae-d0fa-432e-b0a8-35c4e3cdbba6",
+    "image-with-text-overlay",
+    "837c667c-c98a-4e28-9062-68f6ca6a3ec4",
+    "main",
+    "57c81483-f699-4084-9491-50e87bb1ff5a",
+    "cd79aa99-c8c0-4f92-a5e7-75805ef4ae94"
+  ]
+}

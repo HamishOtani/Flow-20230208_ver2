@@ -1,0 +1,84 @@
+{
+  "sections": {
+    "5a1f58b5-5a38-40ce-831e-3d048130be96": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "title": "",
+        "text": "",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "main": {
+      "type": "template--cart",
+      "settings": {
+      }
+    },
+    "adff0176-85c1-4dda-8a13-0e92da8a14e3": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "title": "",
+        "text": "",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "rich-text": {
+      "type": "text--rich-text",
+      "disabled": true,
+      "settings": {
+        "colors": "accent",
+        "title": "Welcome to our store",
+        "text": "<p>Use this text block to show store announcements, advertise products and collections, or simply welcome visitors to your store.<\/p>",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "featured-product": {
+      "type": "products--featured-product",
+      "disabled": true,
+      "settings": {
+        "title": "Featured product",
+        "richtext": "",
+        "featured_product": "",
+        "product_variant_style": "dropdowns",
+        "hide_soldout_variants": false,
+        "show-giftwrap": false,
+        "show-vendor": false,
+        "show_product_description": false,
+        "show_quantity_selector": false,
+        "show_add_to_cart": true,
+        "show_smart_checkout": false,
+        "image-placement": "left",
+        "enable_video_loop": false
+      }
+    },
+    "c65527c1-c754-411d-83f7-ba21feac26c8": {
+      "type": "advanced-layout--custom-html",
+      "blocks": {
+        "template--17836192071980__c65527c1-c754-411d-83f7-ba21feac26c8-1675846546b208221a-0": {
+          "type": "html",
+          "settings": {
+            "code": "<div style=\"text-align:center; padding: 12px 0; background-color:#F2F2F2;\"><\/div>",
+            "width": "100%"
+          }
+        }
+      },
+      "block_order": [
+        "template--17836192071980__c65527c1-c754-411d-83f7-ba21feac26c8-1675846546b208221a-0"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "5a1f58b5-5a38-40ce-831e-3d048130be96",
+    "main",
+    "adff0176-85c1-4dda-8a13-0e92da8a14e3",
+    "rich-text",
+    "featured-product",
+    "c65527c1-c754-411d-83f7-ba21feac26c8"
+  ]
+}

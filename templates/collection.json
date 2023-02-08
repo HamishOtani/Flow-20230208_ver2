@@ -1,0 +1,218 @@
+{
+  "wrapper": "div.collection-wrapper.wrapper",
+  "sections": {
+    "5cefa3e9-9da5-406f-b01b-b27891bbe77d": {
+      "type": "advanced-layout--custom-html",
+      "blocks": {
+        "template--17836192137516__5cefa3e9-9da5-406f-b01b-b27891bbe77d-1675846546b208221a-0": {
+          "type": "html",
+          "settings": {
+            "code": "<div style=\"text-align:center; padding: 16px 0;\"><\/div>",
+            "width": "100%"
+          }
+        }
+      },
+      "block_order": [
+        "template--17836192137516__5cefa3e9-9da5-406f-b01b-b27891bbe77d-1675846546b208221a-0"
+      ],
+      "settings": {
+      }
+    },
+    "image-with-text-overlay": {
+      "type": "image--image-with-text-overlay",
+      "settings": {
+        "image": "{{ collection.image }}",
+        "image_height": "40vw",
+        "bg_image_overlay_opacity": 0,
+        "parallax": true,
+        "title": "{{ collection.title }}",
+        "text": "",
+        "colors": "light",
+        "textPosition": "center",
+        "textAlignment": "center",
+        "heading--text-size": 30,
+        "text--text-size": 12,
+        "link": "",
+        "button_label": "",
+        "button-text": "#ffffff",
+        "button-background": "#000000"
+      }
+    },
+    "collection-header": {
+      "type": "template--collection--header",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "rich-text": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "title": "",
+        "text": "",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "filtering": {
+      "type": "main-collection-filtering",
+      "disabled": true,
+      "blocks": {
+        "9a61e16d-8210-4071-af4e-383d749847a5": {
+          "type": "title",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "cc65f712-6e6c-43a3-bee0-f94976022411": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "9a61e16d-8210-4071-af4e-383d749847a5",
+        "cc65f712-6e6c-43a3-bee0-f94976022411"
+      ],
+      "settings": {
+        "desktop_position": "topbar",
+        "enable_filtering": true,
+        "enable_sorting": true
+      }
+    },
+    "product-grid": {
+      "type": "template--collection",
+      "blocks": {
+        "product_card_image": {
+          "type": "product_card_image",
+          "settings": {
+            "hover-effect": true,
+            "enable_badges": true
+          }
+        },
+        "product_card_title": {
+          "type": "product_card_title",
+          "settings": {
+          }
+        },
+        "product_card_price": {
+          "type": "product_card_price",
+          "settings": {
+          }
+        },
+        "product_card_button": {
+          "type": "product_card_button",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "product_card_image",
+        "product_card_title",
+        "product_card_price",
+        "product_card_button"
+      ],
+      "settings": {
+        "desktop-products-per-row": 3,
+        "tablet-products-per-row": 3,
+        "mobile-products-per-row": 1,
+        "collection-products-per-page": 3,
+        "pagination_options": "pagination_infinite_scrolling"
+      }
+    },
+    "3b283122-0236-4b02-9f73-859dbffe3157": {
+      "type": "accordion",
+      "blocks": {
+        "template--16887558144300__3b283122-0236-4b02-9f73-859dbffe3157-16684748514497bc41-0": {
+          "type": "tab_content",
+          "settings": {
+            "question": "送料について",
+            "text": "<p>◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯<br\/>◯◯◯◯◯◯◯◯◯◯◯◯<\/p>"
+          }
+        },
+        "template--16887558144300__3b283122-0236-4b02-9f73-859dbffe3157-16684748514497bc41-1": {
+          "type": "tab_content",
+          "settings": {
+            "question": "返品について",
+            "text": "<p>◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯<br\/>◯◯◯◯◯◯◯◯◯◯◯◯<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16887558144300__3b283122-0236-4b02-9f73-859dbffe3157-16684748514497bc41-0",
+        "template--16887558144300__3b283122-0236-4b02-9f73-859dbffe3157-16684748514497bc41-1"
+      ],
+      "settings": {
+        "colors": "white",
+        "title": "",
+        "faq_icon": "plus_minus"
+      }
+    },
+    "7ed49024-6347-448e-85d8-e8d7c121b089": {
+      "type": "products--featured-product",
+      "disabled": true,
+      "settings": {
+        "title": "Featured product",
+        "richtext": "",
+        "featured_product": "吸水ショーツ-スタンダードタイプ",
+        "product_variant_style": "swatches",
+        "hide_soldout_variants": false,
+        "show-giftwrap": false,
+        "show-vendor": false,
+        "show_product_description": false,
+        "show_quantity_selector": false,
+        "show_add_to_cart": false,
+        "show_smart_checkout": false,
+        "image-placement": "left",
+        "enable_video_loop": false
+      }
+    },
+    "a120c970-e4ea-49ac-8a93-afc267c947c5": {
+      "type": "advanced-layout--custom-html",
+      "blocks": {
+        "template--17836192137516__a120c970-e4ea-49ac-8a93-afc267c947c5-1675846546b208221a-0": {
+          "type": "html",
+          "settings": {
+            "code": "<div style=\"text-align:center; padding: 30px 0;\"><\/div>",
+            "width": "100%"
+          }
+        }
+      },
+      "block_order": [
+        "template--17836192137516__a120c970-e4ea-49ac-8a93-afc267c947c5-1675846546b208221a-0"
+      ],
+      "settings": {
+      }
+    },
+    "f50cd33b-d635-449c-a1f8-ad12c9a5548c": {
+      "type": "advanced-layout--custom-html",
+      "blocks": {
+        "template--17836192137516__f50cd33b-d635-449c-a1f8-ad12c9a5548c-1675846546b208221a-0": {
+          "type": "html",
+          "settings": {
+            "code": "<div style=\"text-align:center; padding: 12px 0; background-color:#F2F2F2;\"><\/div>",
+            "width": "100%"
+          }
+        }
+      },
+      "block_order": [
+        "template--17836192137516__f50cd33b-d635-449c-a1f8-ad12c9a5548c-1675846546b208221a-0"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "5cefa3e9-9da5-406f-b01b-b27891bbe77d",
+    "image-with-text-overlay",
+    "collection-header",
+    "rich-text",
+    "filtering",
+    "product-grid",
+    "3b283122-0236-4b02-9f73-859dbffe3157",
+    "7ed49024-6347-448e-85d8-e8d7c121b089",
+    "a120c970-e4ea-49ac-8a93-afc267c947c5",
+    "f50cd33b-d635-449c-a1f8-ad12c9a5548c"
+  ]
+}
