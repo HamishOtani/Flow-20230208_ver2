@@ -369,6 +369,16 @@
       "settings": {
       }
     },
+    "67e5796d-86cc-441b-b518-eb03494bbfee": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "title": "お客さまの声",
+        "text": "<p>user voice<\/p>",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
     "16758366070118aacd": {
       "type": "apps",
       "blocks": {
@@ -457,6 +467,7 @@
     "76569bf3-1a0b-450e-85bb-8babc01dba11",
     "789a0321-82dd-461f-b792-c362e487b4a8",
     "687ac1ca-7412-4e93-8b02-59654d262f80",
+    "67e5796d-86cc-441b-b518-eb03494bbfee",
     "16758366070118aacd",
     "850ca747-352c-425a-b6c3-03b789c8477b",
     "59e5cdfe-770f-4466-833d-640a01343219"
