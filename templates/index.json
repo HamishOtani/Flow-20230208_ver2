@@ -122,10 +122,10 @@
         "vertical-alignment": true,
         "text-below-image": false,
         "slider-slide-time": 8,
-        "caption-heading-size": 36,
+        "caption-heading-size": 32,
         "caption-subheading-size": 16,
         "caption-button-size": 14,
-        "show-slide-dots": true,
+        "show-slide-dots": false,
         "show-slide-arrows": true,
         "slider-navigation-color": "#ffffff"
       }
