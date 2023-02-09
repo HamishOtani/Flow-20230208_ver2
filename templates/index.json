@@ -150,9 +150,9 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/mens_image_20230208.jpg",
-            "link": "shopify:\/\/pages\/coming-soon",
+            "link": "",
             "title": "men's",
-            "subheading": "",
+            "subheading": "comming soon",
             "overlay-btn-text": "",
             "show-gradient-overlay": false,
             "overlay_font_color": "#ffffff",
