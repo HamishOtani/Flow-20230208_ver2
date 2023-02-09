@@ -125,7 +125,7 @@
         "caption-heading-size": 32,
         "caption-subheading-size": 16,
         "caption-button-size": 14,
-        "show-slide-dots": false,
+        "show-slide-dots": true,
         "show-slide-arrows": true,
         "slider-navigation-color": "#ffffff"
       }
