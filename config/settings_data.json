@@ -113,6 +113,23 @@
       },
       "header": {
         "type": "header",
+        "blocks": {
+          "362668a2-9496-408b-b848-d45193f53417": {
+            "type": "content",
+            "settings": {
+              "mega-menu": "",
+              "mega_image_header_1": "",
+              "mega_image_subheader_1": "",
+              "mega_image_link_1": "",
+              "mega_image_header_2": "",
+              "mega_image_subheader_2": "",
+              "mega_image_link_2": ""
+            }
+          }
+        },
+        "block_order": [
+          "362668a2-9496-408b-b848-d45193f53417"
+        ],
         "settings": {
           "sticky_header": true,
           "logo": "shopify:\/\/shop_images\/logo_normal_black.png",
