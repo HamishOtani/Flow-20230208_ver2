@@ -19,10 +19,10 @@
     },
     "newsletter_form_section": {
       "header": "Join our mailing list",
-      "header_text": "Email address:",
-      "newsletter_text": "Enter email",
-      "submit": "Join",
-      "thanks": "Thanks for joining!"
+      "header_text": "メールアドレス",
+      "newsletter_text": "メールアドレスを入力してください",
+      "submit": "登録する",
+      "thanks": "登録ありがとうございます！"
     },
     "search": {
       "no_results_html": "Your search for \"{{ terms }}\" did not yield any results.",
