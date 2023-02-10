@@ -1,5 +1,22 @@
 {
   "sections": {
+    "d923bcdb-d638-4330-bd9e-3f0a593e359b": {
+      "type": "advanced-layout--custom-html",
+      "blocks": {
+        "template--17938309939500__d923bcdb-d638-4330-bd9e-3f0a593e359b-167600286340dab910-0": {
+          "type": "html",
+          "settings": {
+            "code": "<div style=\"text-align:center; padding: 16px 0;\"><\/div>",
+            "width": "100%"
+          }
+        }
+      },
+      "block_order": [
+        "template--17938309939500__d923bcdb-d638-4330-bd9e-3f0a593e359b-167600286340dab910-0"
+      ],
+      "settings": {
+      }
+    },
     "main": {
       "type": "template--collections-list",
       "settings": {
@@ -121,6 +138,7 @@
     }
   },
   "order": [
+    "d923bcdb-d638-4330-bd9e-3f0a593e359b",
     "main",
     "rich-text",
     "image-with-text-overlay",
