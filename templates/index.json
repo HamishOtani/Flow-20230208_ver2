@@ -164,6 +164,9 @@
         "template--17836192432428__48b53a29-b055-4717-93a3-a3e8e44dfce2-167582490685b6e3a8-1",
         "template--17836192432428__48b53a29-b055-4717-93a3-a3e8e44dfce2-167582490685b6e3a8-2"
       ],
+      "custom_css": [
+        "h2 {font-size:15px padding-bottom:50px;}"
+      ],
       "settings": {
         "colors": "white",
         "title": "",
