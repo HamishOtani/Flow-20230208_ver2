@@ -174,6 +174,12 @@
             "link": ""
           }
         },
+        "6c4dcf0c-cd1c-4c76-8f6f-459fcb81b9ee": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div style=\"text-align:center; padding: 16px 0;\"><\/div>"
+          }
+        },
         "fbfe241f-1b44-41cd-ae22-e866bdad9aaf": {
           "type": "cross-sells",
           "settings": {
@@ -207,6 +213,7 @@
         "7803c108-4e12-4b6b-80bb-6548d3e7caea",
         "2e5b27f0-56e9-405f-9bdd-5bdd32933e29",
         "27ea6831-423f-4504-8a3c-c3bab9b1aef1",
+        "6c4dcf0c-cd1c-4c76-8f6f-459fcb81b9ee",
         "fbfe241f-1b44-41cd-ae22-e866bdad9aaf"
       ],
       "custom_css": [
