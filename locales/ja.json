@@ -527,7 +527,7 @@
       "all_of_collection": "All {{ collection }}",
       "product_collections": "Product collections",
       "no_matches": "申し訳ございませんが、このコレクションに該当する製品はございません。",
-      "link_title": "Browse our {{ title }} collection",
+      "link_title": "{{ title }} のコレクションを見る",
       "see_more": "もっと見る",
       "grid_view": "グリッド表示",
       "list_view": "リスト表示",
