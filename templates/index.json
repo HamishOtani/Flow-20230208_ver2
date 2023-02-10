@@ -250,8 +250,8 @@
         "image_height": "30vw",
         "bg_image_overlay_opacity": 15,
         "parallax": true,
-        "title": "4つのポイント",
-        "text": "吸水ショーツ",
+        "title": "technology",
+        "text": "テクノロジー",
         "colors": "light",
         "textPosition": "center",
         "textAlignment": "center",
@@ -261,6 +261,16 @@
         "button_label": "",
         "button-text": "#ffffff",
         "button-background": "#000000"
+      }
+    },
+    "dac1a005-fcf0-4967-89fc-fd70429697eb": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "title": "Welcome to our store",
+        "text": "<p>Use this text block to show store announcements, advertise products and collections, or simply welcome visitors to your store.<\/p>",
+        "button_label": "",
+        "button_link": ""
       }
     },
     "6e2e0269-b82c-4ef9-af7d-10c2b90deeba": {
@@ -576,6 +586,7 @@
     "6bba0464-12d7-41e5-ba37-e56286051e50",
     "f8b39f76-c77c-4b2b-9ba3-c7553f8301c9",
     "62b98229-8c52-4aa0-aeed-0fda3644f0b6",
+    "dac1a005-fcf0-4967-89fc-fd70429697eb",
     "6e2e0269-b82c-4ef9-af7d-10c2b90deeba",
     "477ee51c-9ca0-44a5-805a-18b2b50d558a",
     "fdb52bcf-98bb-4e26-a047-9b5c75fbf2ee",

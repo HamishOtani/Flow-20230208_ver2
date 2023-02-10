@@ -590,7 +590,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".text-with-icon {text-align: left; border: none;}"
+
     ]
   }
 }
