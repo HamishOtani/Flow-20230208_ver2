@@ -471,7 +471,7 @@
   },
   "blogs": {
     "article": {
-      "author_on_date_html": "Posted by {{ author }} on {{ date }}",
+      "author_on_date_html": "投稿者： {{ author }} 投稿日： {{ date }} 日",
       "older_post": "古い記事",
       "newer_post": "新しい記事",
       "tags": "タグ",
