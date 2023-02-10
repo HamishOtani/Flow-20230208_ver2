@@ -563,7 +563,7 @@
       "add_product": "商品を追加する"
     },
     "paginate": {
-      "youve_viewed": "You've viewed {{ x }} of {{ y }} products",
+      "youve_viewed": "{{ y }} の製品のうち {{ x }} をご覧になりました",
       "loading": "ロード中...",
       "load_more": "Load more"
     }
