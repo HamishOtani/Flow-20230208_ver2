@@ -386,7 +386,7 @@
       "tags": "Tags",
       "category": "Category",
       "type": "Type",
-      "include_taxes": "Tax included.",
+      "include_taxes": "税込価格",
       "shipping_policy_html": "<a href=\"{{ link }}\">Shipping<\/a> calculated at checkout.",
       "out_of_stock_html": "Click <a href=\"#\"><strong>here<\/strong><\/a> to be notified by email when {{ product }} becomes available.",
       "wrong_email": "Please provide a valid email address.",
