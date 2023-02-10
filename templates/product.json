@@ -210,6 +210,9 @@
         "2e5b27f0-56e9-405f-9bdd-5bdd32933e29",
         "27ea6831-423f-4504-8a3c-c3bab9b1aef1"
       ],
+      "custom_css": [
+        "div {border: none;}"
+      ],
       "settings": {
         "enable_sticky": false,
         "show_out_of_stock_email": false
