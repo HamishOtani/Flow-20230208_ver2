@@ -1,1 +1,4 @@
 /* Place any CSS overrides in this file. */
+.card__information .price__container > * {
+    font-size: 15px !important;
+}
