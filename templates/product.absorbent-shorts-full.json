@@ -216,6 +216,9 @@
         "d3bfe9ea-2ae3-4338-a3e1-ab305f2be124",
         "fbfe241f-1b44-41cd-ae22-e866bdad9aaf"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
         "enable_sticky": false,
         "show_out_of_stock_email": false
@@ -224,7 +227,7 @@
     "product-description": {
       "type": "template--product--description",
       "custom_css": [
-        "span{font-size:20px;}"
+        "span {font-size: 20px;}"
       ],
       "settings": {
         "enable_readmore": false
