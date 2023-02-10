@@ -223,6 +223,9 @@
     },
     "product-description": {
       "type": "template--product--description",
+      "custom_css": [
+        "span{font-size:20px;}"
+      ],
       "settings": {
         "enable_readmore": false
       }
