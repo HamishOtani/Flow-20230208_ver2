@@ -267,8 +267,8 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "title": "Welcome to our store",
-        "text": "<p>Use this text block to show store announcements, advertise products and collections, or simply welcome visitors to your store.<\/p>",
+        "title": "4つのポイント",
+        "text": "<p>女性特有のデリケートな悩みをショーツ1枚で快適に。<br\/>ショーツ本体が液体を吸収し、防臭加工により蒸れや臭いを防いでくれます。<\/p>",
         "button_label": "",
         "button_link": ""
       }
