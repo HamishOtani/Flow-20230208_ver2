@@ -44,17 +44,6 @@
       "settings": {
       }
     },
-    "rich-text": {
-      "type": "text--rich-text",
-      "disabled": true,
-      "settings": {
-        "colors": "white",
-        "title": "",
-        "text": "",
-        "button_label": "",
-        "button_link": ""
-      }
-    },
     "c8b55d09-b78d-44b0-80c0-2c09c9cecbb1": {
       "type": "advanced-layout--custom-html",
       "blocks": {
@@ -225,7 +214,6 @@
     "5cefa3e9-9da5-406f-b01b-b27891bbe77d",
     "image-with-text-overlay",
     "collection-header",
-    "rich-text",
     "c8b55d09-b78d-44b0-80c0-2c09c9cecbb1",
     "filtering",
     "product-grid",
