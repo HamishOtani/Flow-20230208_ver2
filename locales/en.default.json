@@ -13,9 +13,9 @@
       "home_link_title": "トップページに戻る"
     },
     "newsletter_form": {
-      "newsletter_email": "email@example.com",
-      "submit": "email@example.com",
-      "confirmation": "Thanks for subscribing"
+      "newsletter_email": "",
+      "submit": "登録する",
+      "confirmation": "登録ありがとうございます！"
     },
     "newsletter_form_section": {
       "header": "Join our mailing list",
