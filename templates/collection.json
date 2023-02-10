@@ -61,7 +61,7 @@
         "template--17938309841196__c8b55d09-b78d-44b0-80c0-2c09c9cecbb1-167600286340dab910-0": {
           "type": "html",
           "settings": {
-            "code": "<div style=\"text-align:center; padding: 30px 0;\"><\/div>",
+            "code": "<div style=\"text-align:center; padding: 40px 0;\"><\/div>",
             "width": "100%"
           }
         }
