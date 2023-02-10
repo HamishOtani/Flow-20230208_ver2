@@ -587,5 +587,10 @@
 
       ]
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      ".rte featured-row__subtext textarea {font-size: 50px;}"
+    ]
   }
 }
