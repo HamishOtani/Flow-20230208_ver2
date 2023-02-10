@@ -590,8 +590,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".text-with-icon {text-align: left; border-top: 1px solid;}",
-      "div{border:none;}"
+      ".text-with-icon {text-align: left; border-bottom: 1px solid;}"
     ]
   }
 }
