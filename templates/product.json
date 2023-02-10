@@ -96,17 +96,6 @@
             "link": ""
           }
         },
-        "fbfe241f-1b44-41cd-ae22-e866bdad9aaf": {
-          "type": "cross-sells",
-          "disabled": true,
-          "settings": {
-            "title": "",
-            "cross_sell_product_1": "吸水ショーツ-スタンダードタイプ",
-            "cross_sell_product_2": "",
-            "cross_sell_product_3": "",
-            "cross_sell_bg": "#f8f8f8"
-          }
-        },
         "4fc5c8ff-de40-4a1e-9237-abd82cb40a7a": {
           "type": "trust_badges",
           "disabled": true,
@@ -184,6 +173,16 @@
             "text": "{{ product.metafields.custom._Country_of_origin.value }}",
             "link": ""
           }
+        },
+        "fbfe241f-1b44-41cd-ae22-e866bdad9aaf": {
+          "type": "cross-sells",
+          "settings": {
+            "title": "",
+            "cross_sell_product_1": "吸水ショーツ-スタンダードタイプ",
+            "cross_sell_product_2": "",
+            "cross_sell_product_3": "",
+            "cross_sell_bg": "#f8f8f8"
+          }
         }
       },
       "block_order": [
@@ -198,7 +197,6 @@
         "buy_buttons",
         "695a82d4-5c88-41e0-9797-aa7b8bd31339",
         "18c58aeb-aaed-495f-bc50-bc327805b505",
-        "fbfe241f-1b44-41cd-ae22-e866bdad9aaf",
         "4fc5c8ff-de40-4a1e-9237-abd82cb40a7a",
         "47120eeb-f800-4ec2-b758-d44d0f4a882d",
         "bd41fb68-5254-412a-984a-aa5f51b2ab56",
@@ -208,7 +206,8 @@
         "874ef70d-c0b8-460e-9c62-297a900d8f7d",
         "7803c108-4e12-4b6b-80bb-6548d3e7caea",
         "2e5b27f0-56e9-405f-9bdd-5bdd32933e29",
-        "27ea6831-423f-4504-8a3c-c3bab9b1aef1"
+        "27ea6831-423f-4504-8a3c-c3bab9b1aef1",
+        "fbfe241f-1b44-41cd-ae22-e866bdad9aaf"
       ],
       "custom_css": [
         "div {border: none;}"
