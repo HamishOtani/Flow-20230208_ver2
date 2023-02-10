@@ -192,7 +192,7 @@
         "template--17836192137516__a120c970-e4ea-49ac-8a93-afc267c947c5-1675846546b208221a-0": {
           "type": "html",
           "settings": {
-            "code": "<div style=\"text-align:center; padding: 30px 0;\"><\/div>",
+            "code": "<div style=\"text-align:center; padding: 20px 0;\"><\/div>",
             "width": "100%"
           }
         }
