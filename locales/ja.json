@@ -753,7 +753,7 @@
     "product": {
       "sold_out": "売り切れ",
       "on_sale": "販売中",
-      "on_sale_from_html": "On Sale from {{ price }}",
+      "on_sale_from_html": " {{ price }} から販売中",
       "unavailable": "利用不可",
       "compare_at": "と比較",
       "quantity": "数量",
