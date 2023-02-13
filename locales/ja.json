@@ -890,6 +890,11 @@
         "title": "お支払い方法の詳細",
         "close_payment_modal_accessibility_label": "支払い方法の詳細を閉じる"
       }
+    },
+    "navigation_and_structure": {
+      "account_menu": {
+        "hide_accessibility_label": "アカウントメニューを非表示にする"
+      }
     }
   }
 }
