@@ -406,7 +406,7 @@
   },
   "general": {
     "404": {
-      "title": "404 Page not found",
+      "title": "404 ページが見つかりません",
       "subtext_html": "The page you requested does not exist. Click <a href=\"\/collections\/all\">here<\/a> to continue shopping."
     },
     "meta": {
