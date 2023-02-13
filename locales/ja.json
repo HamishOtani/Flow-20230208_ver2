@@ -739,7 +739,7 @@
   },
   "products": {
     "general": {
-      "previous_product_html": "&larr; Previous product",
+      "previous_product_html": "&larr; 前の商品",
       "next_product_html": "次の商品 &rarr;",
       "from_text": "From",
       "sale_price": "販売価格",
