@@ -507,7 +507,7 @@
       "taxes_and_shipping_at_checkout": "消費税と送料はチェックアウト時に計算されます",
       "taxes_and_shipping_policy_at_checkout_html": "チェックアウト時に計算される税金と <a href=\"{{ link }}\">配送料<\/a>",
       "taxes_included_but_shipping_at_checkout": "税込金額、送料はチェックアウト時に計算されます",
-      "taxes_included_and_shipping_policy_html": "Tax included. <a href=\"{{ link }}\">Shipping<\/a> calculated at checkout.",
+      "taxes_included_and_shipping_policy_html": "チェックアウト時に計算される税金<a href=\"{{ link }}\">配送料<\/a> ",
       "update": "カートの更新",
       "checkout": "チェックアウト",
       "empty": "カートは空です。",
