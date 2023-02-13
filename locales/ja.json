@@ -853,8 +853,8 @@
     },
     "password_page": {
       "login_form_message": "パスワードを使用してストアにログインする:",
-      "login_form_password_label": "パスオォーダ",
-      "login_form_password_placeholder": "Your password",
+      "login_form_password_label": "パスワード",
+      "login_form_password_placeholder": "あなたのパスワード",
       "login_form_submit": "Enter",
       "signup_form_email_label": "イーメール",
       "signup_form_success": "We will send you an email right before we open!",
