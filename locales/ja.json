@@ -375,6 +375,9 @@
         "price_ascending": "価格の安い順",
         "price_descending": "価格の高い順"
       }
+    },
+    "links": {
+      "powered_by_shopify": " "
     }
   },
   "sections": {
