@@ -751,8 +751,8 @@
       "giftwrap_note_placeholder": "こちらにギフトカードを追加してください"
     },
     "product": {
-      "sold_out": "Sold out",
-      "on_sale": "On sale",
+      "sold_out": "売り切れ",
+      "on_sale": "販売中",
       "on_sale_from_html": "On Sale from {{ price }}",
       "unavailable": "Unavailable",
       "compare_at": "Compare at",
