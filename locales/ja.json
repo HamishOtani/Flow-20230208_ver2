@@ -401,7 +401,7 @@
       },
       "reset": "リセット",
       "sort_button": "並べ替え",
-      "sort_by_label": "Sort by",
+      "sort_by_label": "並べ替え",
       "title": "コレクション",
       "to": "へ",
       "use_fewer_filters_html": "Use fewer filters or <a class=\"{{ class }}\" href=\"{{ link }}\">clear all<\/a>"
