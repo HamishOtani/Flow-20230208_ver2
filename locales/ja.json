@@ -635,10 +635,10 @@
       "none": "まだご注文はありません。"
     },
     "order": {
-      "title": "Order {{ name }}",
+      "title": "注文する {{ name }}",
       "date": "Placed on {{ date }}",
-      "cancelled": "Order canceled on {{ date }}",
-      "cancelled_reason": "Reason: {{ reason }}",
+      "cancelled": "Order canceled on {{ date }} に注文をキャンセルした",
+      "cancelled_reason": "理由: {{ reason }}",
       "billing_address": "請求先住所",
       "payment_status": "支払い状況",
       "shipping_address": "配送先住所",
