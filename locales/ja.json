@@ -400,7 +400,7 @@
         "other": "Showing {{ product_count }} of {{ count }} products"
       },
       "reset": "リセット",
-      "sort_button": "Sort",
+      "sort_button": "並べ替え",
       "sort_by_label": "Sort by",
       "title": "コレクション",
       "to": "へ",
