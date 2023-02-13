@@ -382,7 +382,7 @@
       "apply": "Apply",
       "clear": "Clear",
       "clear_all": "Clear all",
-      "empty": "No products found",
+      "empty": "商品が見つかりませんでいた。",
       "from": "From",
       "filter_and_sort": "Filter and sort",
       "filter_by_label": "Filter by",
