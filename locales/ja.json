@@ -682,18 +682,18 @@
   "homepage": {
     "sections": {
       "frontpage_title": "Frontpage collection",
-      "featured_title": "Featured collections",
-      "news_title": "Latest news"
+      "featured_title": "注目のコレクション",
+      "news_title": "最新情報"
     },
     "onboarding": {
       "modal_title": "Almost there...",
       "no_products_html": "This placeholder will appear until you add a product to this collection.",
-      "add_product": "Add a product",
-      "product_title": "Product title",
+      "add_product": "商品を追加する",
+      "product_title": "商品タイトル",
       "product_vendor": "Vendor",
       "no_collections_html": "You don't have any collections to show here. <a href=\"\/admin\/custom_collections\">Add some collections<\/a> to go along with the default Frontpage.",
-      "add_collection": "Add a collection",
-      "collection_title": "Collection title",
+      "add_collection": "コレクションに追加する",
+      "collection_title": "コレクションのタイトル",
       "no_content": "This section doesn’t currently include any content. Add content to this section using the sidebar."
     }
   },
