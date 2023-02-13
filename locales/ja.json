@@ -667,7 +667,7 @@
     },
     "reset_password": {
       "title": "アカウントパスワードのリセット",
-      "subtext": "Enter a new password for {{ email }}",
+      "subtext": "新しいパスワードを入力する {{ email }}",
       "password": "パスワード",
       "password_confirm": "パスワードの確認",
       "submit": "パスワードのリセット"
