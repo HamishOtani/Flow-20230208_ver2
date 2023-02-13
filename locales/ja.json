@@ -534,8 +534,8 @@
       "view_all": "すべて表示",
       "view_all_label": "{{ collection_name }} の全製品を見る",
       "items_with_count": {
-        "one": "{{ count }} item",
-        "other": "{{ count }} items"
+        "one": "{{ count }} アイテム",
+        "other": "{{ count }} アイテム"
       }
     },
     "sidebar": {
@@ -565,7 +565,7 @@
     "paginate": {
       "youve_viewed": "{{ y }} の製品のうち {{ x }} をご覧になりました",
       "loading": "ロード中...",
-      "load_more": "Load more"
+      "load_more": "もっと見る"
     }
   },
   "contact": {
