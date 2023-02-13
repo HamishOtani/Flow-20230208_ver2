@@ -396,11 +396,11 @@
         "one": "Showing {{ product_count }} of {{ count }} product",
         "other": "Showing {{ product_count }} of {{ count }} products"
       },
-      "reset": "Reset",
+      "reset": "リセット",
       "sort_button": "Sort",
       "sort_by_label": "Sort by",
-      "title": "Collection",
-      "to": "To",
+      "title": "コレクション",
+      "to": "へ",
       "use_fewer_filters_html": "Use fewer filters or <a class=\"{{ class }}\" href=\"{{ link }}\">clear all<\/a>"
     }
   },
