@@ -687,7 +687,7 @@
     },
     "onboarding": {
       "modal_title": "Almost there...",
-      "no_products_html": "This placeholder will appear until you add a product to this collection.",
+      "no_products_html": "",
       "add_product": "商品を追加する",
       "product_title": "商品タイトル",
       "product_vendor": "Vendor",
