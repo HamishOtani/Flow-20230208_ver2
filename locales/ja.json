@@ -501,7 +501,7 @@
     "general": {
       "title": "ショッピングカート",
       "remove": "削除",
-      "note": "Special instructions for seller",
+      "note": "注文に特別な要望がありましたらご記入ください。",
       "see_more": "もっと見る",
       "subtotal": "小計",
       "taxes_and_shipping_at_checkout": "消費税と送料はチェックアウト時に計算されます",
