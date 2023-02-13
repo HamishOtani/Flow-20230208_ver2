@@ -816,14 +816,14 @@
   "pagefly": {
     "products": {
       "product": {
-        "regular_price": "Regular price",
-        "sold_out": "Sold out",
-        "unavailable": "Unavailable",
-        "on_sale": "Sale",
+        "regular_price": "通常価格",
+        "sold_out": "売り切れ",
+        "unavailable": "利用不可",
+        "on_sale": "販売中",
         "quantity": "Quantity",
-        "add_to_cart": "Add to cart",
-        "back_to_collection": "Back to {{ title }}",
-        "view_details": "View details"
+        "add_to_cart": "カートへ追加",
+        "back_to_collection": " {{ title }} へ戻る",
+        "view_details": "詳細を見る　"
       }
     },
     "article": {
