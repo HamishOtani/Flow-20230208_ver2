@@ -767,7 +767,7 @@
       "include_taxes": "税込価格",
       "shipping_policy_html": "<a href=\"{{ link }}\">Shipping<\/a> calculated at checkout.",
       "out_of_stock_html": "Click <a href=\"#\"><strong>here<\/strong><\/a> to be notified by email when {{ product }} becomes available.",
-      "wrong_email": "Please provide a valid email address.",
+      "wrong_email": "有効なメールアドレスを入力してください。",
       "out_of_stock_success": "Thanks! We will notify you when this product becomes available!",
       "read_more_html": "もっと読む",
       "read_less_html": "Read less",
