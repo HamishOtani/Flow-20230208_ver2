@@ -831,8 +831,8 @@
       "all_topics": "All topics",
       "by_author": "by {{ author }}",
       "posted_in": "Posted in",
-      "read_more": "Read more",
-      "back_to_blog": "Back to {{ title }}"
+      "read_more": "もっと読む",
+      "back_to_blog": " {{ title }} へ戻る"
     },
     "comments": {
       "title": "Leave a comment",
