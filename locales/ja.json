@@ -893,7 +893,9 @@
     },
     "navigation_and_structure": {
       "account_menu": {
-        "hide_accessibility_label": "アカウントメニューを非表示にする"
+        "hide_accessibility_label": "アカウントメニューを非表示にする",
+        "label": "アカウント",
+        "show_accessibility_label": "アカウントメニューを表示する"
       }
     }
   }
