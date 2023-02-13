@@ -524,8 +524,8 @@
   },
   "collections": {
     "general": {
-      "all_of_collection": "All {{ collection }}",
-      "product_collections": "Product collections",
+      "all_of_collection": "全て {{ collection }}",
+      "product_collections": "商品コレクション",
       "no_matches": "申し訳ございませんが、このコレクションに該当する製品はございません。",
       "link_title": "{{ title }} のコレクションを見る",
       "see_more": "もっと見る",
