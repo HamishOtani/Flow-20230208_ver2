@@ -827,7 +827,7 @@
       }
     },
     "article": {
-      "tags": "Tags:",
+      "tags": "タグ:",
       "all_topics": "全てのトピックス",
       "by_author": "by {{ author }}",
       "posted_in": "Posted in",
