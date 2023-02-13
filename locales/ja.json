@@ -488,8 +488,8 @@
       "success_moderated": "コメントは正常に掲載されました。当ブログはモデレートされているため、しばらくしてから公開します。",
       "success": "あなたのコメントが無事投稿されました。ありがとうございました!",
       "with_count": {
-        "one": "{{ count }} comment",
-        "other": "{{ count }} comments"
+        "one": "{{ count }} コメント",
+        "other": "{{ count }} コメント"
       }
     },
     "sidebar": {
