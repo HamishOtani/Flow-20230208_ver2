@@ -748,7 +748,7 @@
       "yes": "Yes",
       "giftwrap_label": "Gift wrap",
       "giftwrap_note": "Gift message",
-      "giftwrap_note_placeholder": "Add your gift message here"
+      "giftwrap_note_placeholder": "こちらにギフトカードを追加してください"
     },
     "product": {
       "sold_out": "Sold out",
