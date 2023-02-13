@@ -703,11 +703,11 @@
     },
     "drawers": {
       "browse": "Browse",
-      "close_menu": "Close menu",
-      "close": "Close"
+      "close_menu": "メニューを閉じる",
+      "close": "閉じる"
     },
     "cart": {
-      "title": "Cart",
+      "title": "カート",
       "items_count": {
         "one": "item",
         "other": "items"
