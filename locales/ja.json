@@ -388,7 +388,7 @@
       "empty": "商品が見つかりませんでいた。",
       "from": "From",
       "filter_and_sort": "フィルターと並べ替え",
-      "filter_by_label": "Filter by",
+      "filter_by_label": "フィルター",
       "filter_button": "フィルター",
       "filters_selected": {
         "one": "{{ count }} 選択済み",
