@@ -729,12 +729,12 @@
     },
     "footer": {
       "accepted_payments": "Accepted payments",
-      "read_more": "Read more",
-      "contact": "Contact",
+      "read_more": "もっと読む",
+      "contact": "コンタクト",
       "contact_text": "Share store details, promotions, or brand content with your customers.",
       "social_title": "Get connected",
-      "menu_title": "Links",
-      "newsletter_title": "Newsletter"
+      "menu_title": "リンク",
+      "newsletter_title": "メルマガ"
     }
   },
   "products": {
