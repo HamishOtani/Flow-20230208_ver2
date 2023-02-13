@@ -434,7 +434,7 @@
     },
     "search": {
       "no_results_html": "Your search for \"{{ terms }}\" did not yield any results.",
-      "results_for_html": " \"{{ terms }}\" で検索した結果、次の結果が:",
+      "results_for_html": " \"{{ terms }}\" で検索した結果がこちらになります:",
       "title": "検索",
       "placeholder": " ",
       "submit": "検索",
