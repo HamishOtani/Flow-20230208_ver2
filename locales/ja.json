@@ -769,7 +769,7 @@
       "out_of_stock_html": "Click <a href=\"#\"><strong>here<\/strong><\/a> to be notified by email when {{ product }} becomes available.",
       "wrong_email": "Please provide a valid email address.",
       "out_of_stock_success": "Thanks! We will notify you when this product becomes available!",
-      "read_more_html": "Read more",
+      "read_more_html": "もっと読む",
       "read_less_html": "Read less",
       "view_in_space": "View in your space",
       "view_in_space_label": "View in your space, loads item in augmented reality window",
