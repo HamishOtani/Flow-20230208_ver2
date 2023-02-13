@@ -806,9 +806,9 @@
       "opening_soon": "近日中にオープン予定",
       "thanks_mailing": "ご登録ありがとうございます。",
       "find_out": "営業時間",
-      "password": "Enter store using password",
+      "password": "パスワードを使ってストアーへログインする",
       "store_owner": "あなたはオーナーですか？",
-      "store_owner_html": "<a href=\"\/admin\">Log in here<\/a>",
+      "store_owner_html": "<a href=\"\/admin\">こちらからログインできます<\/a>",
       "continue": "続ける",
       "powered_by_html": "This store will be powered by <a href=\"http:\/\/www.shopify.com\">Shopify<\/a>"
     }
