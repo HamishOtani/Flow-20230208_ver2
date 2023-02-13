@@ -838,7 +838,7 @@
       "back_to_blog": " {{ title }} へ戻る"
     },
     "comments": {
-      "title": "コメントを残す",
+      "title": "コメントを記入する",
       "name": "名前",
       "email": "Email",
       "message": "メッセージ",
