@@ -740,7 +740,7 @@
   "products": {
     "general": {
       "previous_product_html": "&larr; Previous product",
-      "next_product_html": "Next product &rarr;",
+      "next_product_html": "次の商品 &rarr;",
       "from_text": "From",
       "sale_price": "販売価格",
       "regular_price": "通常価格",
