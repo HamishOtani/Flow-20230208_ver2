@@ -387,12 +387,12 @@
       "clear_all": "Clear all",
       "empty": "商品が見つかりませんでいた。",
       "from": "From",
-      "filter_and_sort": "Filter and sort",
+      "filter_and_sort": "フィルターと並べ替え",
       "filter_by_label": "Filter by",
-      "filter_button": "Filter",
+      "filter_button": "フィルター",
       "filters_selected": {
-        "one": "{{ count }} selected",
-        "other": "{{ count }} selected"
+        "one": "{{ count }} 選択済み",
+        "other": "{{ count }} 選択済み"
       },
       "max_price": "最高価格は {{ price }}",
       "product_count": {
