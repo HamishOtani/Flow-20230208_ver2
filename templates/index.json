@@ -306,11 +306,6 @@
         "content-position": "hide"
       }
     },
-    "477ee51c-9ca0-44a5-805a-18b2b50d558a": {
-      "type": "advanced-layout--custom-html",
-      "settings": {
-      }
-    },
     "fdb52bcf-98bb-4e26-a047-9b5c75fbf2ee": {
       "type": "advanced-layout--custom-html",
       "blocks": {
@@ -591,7 +586,6 @@
     "62b98229-8c52-4aa0-aeed-0fda3644f0b6",
     "dac1a005-fcf0-4967-89fc-fd70429697eb",
     "6e2e0269-b82c-4ef9-af7d-10c2b90deeba",
-    "477ee51c-9ca0-44a5-805a-18b2b50d558a",
     "fdb52bcf-98bb-4e26-a047-9b5c75fbf2ee",
     "c7559c44-4e9e-4084-8e46-20cc960ea618",
     "b607472f-2100-43d6-ae1a-ce3abac8210d",
