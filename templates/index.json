@@ -177,17 +177,6 @@
         "content-position": "overlay"
       }
     },
-    "49edc516-70e4-4f58-aae4-1466dd19a530": {
-      "type": "text--rich-text",
-      "disabled": true,
-      "settings": {
-        "colors": "white",
-        "title": "ladies",
-        "text": "<p>吸水ショーツ<br\/><\/p><p>ごわつきがなく心地よい肌触りで、安心して1日を過ごせるショーツです。<br\/>スタンダードタイプと吸水量がさらにアップしたフルタイプからその日の量にあわせてお選びください。<\/p>",
-        "button_label": "",
-        "button_link": ""
-      }
-    },
     "1d135063-d67c-4aac-9a04-6952c3b02658": {
       "type": "collection--featured-collection",
       "custom_css": [
@@ -203,8 +192,39 @@
         "grid-mobile": 1,
         "rows": 1,
         "hover-effect": true,
-        "show-vendor": false,
+        "show-vendor": true,
         "show_view_all": false
+      }
+    },
+    "62b98229-8c52-4aa0-aeed-0fda3644f0b6": {
+      "type": "image--image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/technology_h11200.jpg",
+        "image_height": "30vw",
+        "bg_image_overlay_opacity": 15,
+        "parallax": true,
+        "title": "technology",
+        "text": "テクノロジー",
+        "colors": "light",
+        "textPosition": "center",
+        "textAlignment": "center",
+        "heading--text-size": 36,
+        "text--text-size": 16,
+        "link": "",
+        "button_label": "",
+        "button-text": "#ffffff",
+        "button-background": "#000000"
+      }
+    },
+    "49edc516-70e4-4f58-aae4-1466dd19a530": {
+      "type": "text--rich-text",
+      "disabled": true,
+      "settings": {
+        "colors": "white",
+        "title": "ladies",
+        "text": "<p>吸水ショーツ<br\/><\/p><p>ごわつきがなく心地よい肌触りで、安心して1日を過ごせるショーツです。<br\/>スタンダードタイプと吸水量がさらにアップしたフルタイプからその日の量にあわせてお選びください。<\/p>",
+        "button_label": "",
+        "button_link": ""
       }
     },
     "68e4aeb1-075b-4ca4-8b74-a92b2cda038b": {
@@ -246,10 +266,11 @@
         "button_link": ""
       }
     },
-    "62b98229-8c52-4aa0-aeed-0fda3644f0b6": {
+    "26993829-837d-4091-ad28-32a42ffd723a": {
       "type": "image--image-with-text-overlay",
+      "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/technology_h11200.jpg",
+        "image": "shopify:\/\/shop_images\/technology_h800.jpg",
         "image_height": "30vw",
         "bg_image_overlay_opacity": 15,
         "parallax": true,
@@ -577,13 +598,14 @@
   "order": [
     "image-slideshow",
     "48b53a29-b055-4717-93a3-a3e8e44dfce2",
-    "49edc516-70e4-4f58-aae4-1466dd19a530",
     "1d135063-d67c-4aac-9a04-6952c3b02658",
+    "62b98229-8c52-4aa0-aeed-0fda3644f0b6",
+    "49edc516-70e4-4f58-aae4-1466dd19a530",
     "68e4aeb1-075b-4ca4-8b74-a92b2cda038b",
     "pagefly-home",
     "6bba0464-12d7-41e5-ba37-e56286051e50",
     "f8b39f76-c77c-4b2b-9ba3-c7553f8301c9",
-    "62b98229-8c52-4aa0-aeed-0fda3644f0b6",
+    "26993829-837d-4091-ad28-32a42ffd723a",
     "dac1a005-fcf0-4967-89fc-fd70429697eb",
     "6e2e0269-b82c-4ef9-af7d-10c2b90deeba",
     "fdb52bcf-98bb-4e26-a047-9b5c75fbf2ee",
