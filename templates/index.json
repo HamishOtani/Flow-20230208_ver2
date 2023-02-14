@@ -179,6 +179,7 @@
     },
     "1d135063-d67c-4aac-9a04-6952c3b02658": {
       "type": "collection--featured-collection",
+      "disabled": true,
       "custom_css": [
 
       ],
