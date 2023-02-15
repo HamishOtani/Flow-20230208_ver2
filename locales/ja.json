@@ -54,7 +54,7 @@
         "email_or_phone_label": "メールアドレス or 電話番号",
         "email_or_phone_placeholder": "メールアドレス or 電話番号",
         "stored_addresses_label": "Stored addresses",
-        "new_address_label": "Use a new addresses",
+        "new_address_label": "新しい住所を使用する",
         "first_name_label": "姓",
         "optional_first_name_label": "姓（任意）",
         "last_name_label": "名",
