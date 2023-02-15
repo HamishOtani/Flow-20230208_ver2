@@ -509,22 +509,6 @@
       ],
       "settings": {
       }
-    },
-    "c8e98798-5e27-4104-b7d4-2453f2b20b1e": {
-      "type": "collection--featured-collection",
-      "settings": {
-        "colors": "white",
-        "title": "",
-        "richtext": "<p>吸水ショーツ<\/p><p>ごわつきがなく心地よい肌触りで、安心して1日を過ごせるショーツです。<br\/>スタンダードタイプと吸水量がさらにアップしたフルタイプからその日の量にあわせてお選びください。<\/p>",
-        "collection": "ladies",
-        "grid-desktop": 2,
-        "grid-tablet": 2,
-        "grid-mobile": 2,
-        "rows": 2,
-        "hover-effect": true,
-        "show-vendor": false,
-        "show_view_all": false
-      }
     }
   },
   "order": [
@@ -542,7 +526,6 @@
     "7128d2f4-05b6-43e4-bc41-52c06d97f235",
     "c0dae922-a48c-466a-818e-bab12d204f60",
     "b93e4193-91bf-492a-91af-ec9ad36ac676",
-    "e2fe7c68-c568-4af3-9b66-1bf6d966b0e1",
-    "c8e98798-5e27-4104-b7d4-2453f2b20b1e"
+    "e2fe7c68-c568-4af3-9b66-1bf6d966b0e1"
   ]
 }
