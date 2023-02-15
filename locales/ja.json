@@ -269,7 +269,11 @@
         "order_status_confirmed_order_with_email": "ご注文の準備が整いましたら、メールでお知らせします。",
         "order_status_updates_with_email": "出荷や配送に関する最新情報をメールでお届けします。",
         "order_updates_title": "ご注文の更新",
-        "login": "ログイン"
+        "login": "ログイン",
+        "login_reorder_link_text": {
+          "other": "これらの商品も購入する"
+        },
+        "other_options": "その他のオプション"
       },
       "review": {
         "blocks": {
@@ -325,6 +329,11 @@
       "cart": {
         "changed": "カートの変更",
         "items_changed": "1つ以上の項目が変更されました。"
+      },
+      "order": {
+        "cancel_reason": {
+          "other": "その他"
+        }
       }
     },
     "page_titles": {
