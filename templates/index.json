@@ -216,59 +216,14 @@
         "button-background": "#000000"
       }
     },
-    "49edc516-70e4-4f58-aae4-1466dd19a530": {
-      "type": "text--rich-text",
-      "disabled": true,
-      "settings": {
-        "colors": "white",
-        "title": "ladies",
-        "text": "<p>吸水ショーツ<br\/><\/p><p>ごわつきがなく心地よい肌触りで、安心して1日を過ごせるショーツです。<br\/>スタンダードタイプと吸水量がさらにアップしたフルタイプからその日の量にあわせてお選びください。<\/p>",
-        "button_label": "",
-        "button_link": ""
-      }
-    },
-    "68e4aeb1-075b-4ca4-8b74-a92b2cda038b": {
-      "type": "text--rich-text",
-      "disabled": true,
-      "settings": {
-        "colors": "white",
-        "title": "4つのポイント",
-        "text": "<p>吸水ショーツ<\/p>",
-        "button_label": "",
-        "button_link": ""
-      }
-    },
     "pagefly-home": {
       "type": "pagefly-home",
       "disabled": true,
       "settings": {
       }
     },
-    "6bba0464-12d7-41e5-ba37-e56286051e50": {
-      "type": "text--rich-text",
-      "disabled": true,
-      "settings": {
-        "colors": "white",
-        "title": "",
-        "text": "",
-        "button_label": "about",
-        "button_link": "shopify:\/\/pages\/about"
-      }
-    },
-    "f8b39f76-c77c-4b2b-9ba3-c7553f8301c9": {
-      "type": "text--rich-text",
-      "disabled": true,
-      "settings": {
-        "colors": "white",
-        "title": "",
-        "text": "",
-        "button_label": "",
-        "button_link": ""
-      }
-    },
     "26993829-837d-4091-ad28-32a42ffd723a": {
       "type": "image--image-with-text-overlay",
-      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/technology_h800.jpg",
         "image_height": "30vw",
@@ -593,6 +548,63 @@
       ],
       "settings": {
       }
+    },
+    "b41cd308-fa45-4f88-8975-c5c53d5082bf": {
+      "type": "collection--collection-list",
+      "blocks": {
+        "template--17938310496556__b41cd308-fa45-4f88-8975-c5c53d5082bf-1676446178676dac3e-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "subheading": "Subheading",
+            "overlay-btn-text": "Shop now",
+            "show-gradient-overlay": true,
+            "overlay_font_color": "#ffffff",
+            "overlay_color": "#323232"
+          }
+        },
+        "template--17938310496556__b41cd308-fa45-4f88-8975-c5c53d5082bf-1676446178676dac3e-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "subheading": "Subheading",
+            "overlay-btn-text": "Shop now",
+            "show-gradient-overlay": true,
+            "overlay_font_color": "#ffffff",
+            "overlay_color": "#323232"
+          }
+        }
+      },
+      "block_order": [
+        "template--17938310496556__b41cd308-fa45-4f88-8975-c5c53d5082bf-1676446178676dac3e-0",
+        "template--17938310496556__b41cd308-fa45-4f88-8975-c5c53d5082bf-1676446178676dac3e-1"
+      ],
+      "settings": {
+        "colors": "light",
+        "title": "Featured Collections",
+        "richtext": "",
+        "items-per-row": 3,
+        "fill-the-area": true,
+        "remove-spacing": false,
+        "section-width": "full",
+        "content-position": "overlay"
+      }
+    },
+    "6a988d70-c956-4e96-867b-361244580b06": {
+      "type": "collection--featured-collection",
+      "settings": {
+        "colors": "white",
+        "title": "",
+        "richtext": "",
+        "collection": "ladies",
+        "grid-desktop": 2,
+        "grid-tablet": 2,
+        "grid-mobile": 2,
+        "rows": 2,
+        "hover-effect": true,
+        "show-vendor": false,
+        "show_view_all": false
+      }
     }
   },
   "order": [
@@ -600,11 +612,7 @@
     "48b53a29-b055-4717-93a3-a3e8e44dfce2",
     "1d135063-d67c-4aac-9a04-6952c3b02658",
     "62b98229-8c52-4aa0-aeed-0fda3644f0b6",
-    "49edc516-70e4-4f58-aae4-1466dd19a530",
-    "68e4aeb1-075b-4ca4-8b74-a92b2cda038b",
     "pagefly-home",
-    "6bba0464-12d7-41e5-ba37-e56286051e50",
-    "f8b39f76-c77c-4b2b-9ba3-c7553f8301c9",
     "26993829-837d-4091-ad28-32a42ffd723a",
     "dac1a005-fcf0-4967-89fc-fd70429697eb",
     "6e2e0269-b82c-4ef9-af7d-10c2b90deeba",
@@ -616,6 +624,8 @@
     "7128d2f4-05b6-43e4-bc41-52c06d97f235",
     "c0dae922-a48c-466a-818e-bab12d204f60",
     "b93e4193-91bf-492a-91af-ec9ad36ac676",
-    "e2fe7c68-c568-4af3-9b66-1bf6d966b0e1"
+    "e2fe7c68-c568-4af3-9b66-1bf6d966b0e1",
+    "b41cd308-fa45-4f88-8975-c5c53d5082bf",
+    "6a988d70-c956-4e96-867b-361244580b06"
   ]
 }
