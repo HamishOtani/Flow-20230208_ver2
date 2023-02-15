@@ -42,7 +42,7 @@
         "checkout_context": {
           "step_one": "{{ shop_name }} - お支払い"
         },
-        "all_rights_reserved": "　"
+        "all_rights_reserved": "保存済みの住所"
       },
       "contact": {
         "title": "お客様情報",
@@ -99,7 +99,7 @@
         "region_none": "地域名なし"
       },
       "delivery_options": {
-        "ship": "Ship",
+        "ship": "発送",
         "pick_up": "集荷",
         "free_total_label": "無料",
         "shipping_address": "配送先住所",
@@ -120,7 +120,7 @@
         "price_column_header": "価格",
         "status_column_header": "ステータス",
         "removed_from_cart_notice": "カートから削除",
-        "sold_out_label": "sold out",
+        "sold_out_label": "売り切れ",
         "reduced_label": "削減",
         "remove_from_cart_button_label": "カートから削除する ",
         "continue_shopping_button_label": "継続",
@@ -392,9 +392,9 @@
   },
   "sections": {
     "collection_template": {
-      "apply": "Apply",
-      "clear": "Clear",
-      "clear_all": "Clear all",
+      "apply": "適用する",
+      "clear": "クリアにする",
+      "clear_all": "全てクリアにする",
       "empty": "商品が見つかりませんでいた。",
       "from": "From",
       "filter_and_sort": "フィルターと並べ替え",
@@ -414,7 +414,7 @@
       "sort_by_label": "並べ替え",
       "title": "コレクション",
       "to": "へ",
-      "use_fewer_filters_html": "Use fewer filters or <a class=\"{{ class }}\" href=\"{{ link }}\">clear all<\/a>"
+      "use_fewer_filters_html": "フィルターの数を減らすもしくは <a class=\"{{ class }}\" href=\"{{ link }}\">全てをクリアにする<\/a>"
     }
   },
   "general": {
@@ -433,17 +433,17 @@
     "newsletter_form": {
       "newsletter_email": "メールアドレス",
       "submit": "送信する",
-      "confirmation": "登録ありがとうございます！"
+      "confirmation": "ご登録ありがとうございます！"
     },
     "newsletter_form_section": {
       "header": "会員登録する",
       "header_text": "メールアドレス：",
       "newsletter_text": "メールアドレスを入力してください",
       "submit": "送信",
-      "thanks": "登録ありがとうございます！"
+      "thanks": "ご登録ありがとうございます！"
     },
     "search": {
-      "no_results_html": " \"{{ terms }}\" に一致する商品はありませんでした。",
+      "no_results_html": " \"{{ terms }}\" に一致する商品はありませんでした",
       "results_for_html": " \"{{ terms }}\" で検索した結果がこちらになります",
       "title": "検索",
       "placeholder": " ",
@@ -488,7 +488,7 @@
       "older_post": "古い記事",
       "newer_post": "新しい記事",
       "tags": "タグ",
-      "comment_meta_html": "{{ author }} on {{ date }}",
+      "comment_meta_html": "{{ author }} に {{ date }}",
       "read_more": "もっと読む"
     },
     "comments": {
@@ -499,7 +499,7 @@
       "post": "コメントを投稿",
       "moderated": "なお、コメントは公開前に承認される必要があります。",
       "success_moderated": "コメントは正常に掲載されました。当ブログはモデレートされているため、しばらくしてから公開します。",
-      "success": "あなたのコメントが無事投稿されました。ありがとうございました!",
+      "success": "コメントが投稿されました。ありがとうございました!",
       "with_count": {
         "one": "{{ count }} コメント",
         "other": "{{ count }} コメント"
@@ -514,7 +514,7 @@
     "general": {
       "title": "ショッピングカート",
       "remove": "削除",
-      "note": "注文に特別な要望がありましたらご記入ください。",
+      "note": "ご注文に特別なご要望がありましたらご記入ください。",
       "see_more": "もっと見る",
       "subtotal": "小計",
       "taxes_and_shipping_at_checkout": "消費税と送料はチェックアウト時に計算されます",
@@ -650,7 +650,7 @@
     "order": {
       "title": "注文する {{ name }}",
       "date": "Placed on {{ date }}",
-      "cancelled": "Order canceled on {{ date }} に注文をキャンセルした",
+      "cancelled": "{{ date }} に注文をキャンセルした",
       "cancelled_reason": "理由: {{ reason }}",
       "billing_address": "請求先住所",
       "payment_status": "支払い状況",
@@ -659,7 +659,7 @@
       "discount": "割引",
       "shipping": "配送料",
       "tax": "消費税",
-      "product": "Product",
+      "product": "商品",
       "sku": "製品番号",
       "price": "価格",
       "quantity": "数量",
@@ -699,7 +699,7 @@
       "news_title": "最新情報"
     },
     "onboarding": {
-      "modal_title": "Almost there...",
+      "modal_title": "あともう少し...",
       "no_products_html": "",
       "add_product": "商品を追加する",
       "product_title": "商品タイトル",
@@ -745,7 +745,7 @@
       "read_more": "もっと読む",
       "contact": "コンタクト",
       "contact_text": "Share store details, promotions, or brand content with your customers.",
-      "social_title": "Get connected",
+      "social_title": "コンタクトを取り合いましょう",
       "menu_title": "リンク",
       "newsletter_title": "メルマガ"
     }
@@ -759,7 +759,7 @@
       "regular_price": "通常価格",
       "product_reviews": "商品レビュー",
       "yes": "はい",
-      "giftwrap_label": "Gift wrap",
+      "giftwrap_label": "ギフトのラッピング",
       "giftwrap_note": "ギフトカードメッセージ",
       "giftwrap_note_placeholder": "こちらにギフトカードを追加してください"
     },
@@ -772,7 +772,7 @@
       "quantity": "数量",
       "add_to_cart": "カートに入れる",
       "view_options": "オプションを見る",
-      "added": "Added",
+      "added": "追加済み",
       "quick_shop": "クイックビュー",
       "tags": "タグ",
       "category": "カテゴリー",
@@ -783,11 +783,11 @@
       "wrong_email": "有効なメールアドレスを入力してください。",
       "out_of_stock_success": "ありがとうございます。こちらの商品が入荷しましたらお知らせいたします。",
       "read_more_html": "もっと読む",
-      "read_less_html": "Read less",
+      "read_less_html": "表示を減らす",
       "view_in_space": "View in your space",
       "view_in_space_label": "View in your space, loads item in augmented reality window",
       "video_thumbnail_alt": "Load and play video in Gallery viewer, {{ imageAlt }}",
-      "model_thumbnail_alt": "Load 3D model into Gallery viewer, {{ imageAlt }}"
+      "model_thumbnail_alt": "ギャラリービューアーに3Dモデルを読み込む, {{ imageAlt }}"
     }
   },
   "store_availability": {
@@ -802,7 +802,7 @@
   },
   "gift_cards": {
     "issued": {
-      "title": "Here's your {{ value }} gift card for {{ shop }}!",
+      "title": "こちらが {{ value }} あなたのギフトカードになります {{ shop }}!",
       "subtext": "ギフトカードはこちら!",
       "disabled": "使用不可",
       "expired": "{{ expiry }} に期間切れ",
