@@ -459,7 +459,7 @@
       "share_the_love": "Loveをシェアーしましょう。"
     },
     "onboarding": {
-      "modal_title": "Almost there...",
+      "modal_title": "あともう少し...",
       "no_products_html": "You have no products in your home page collection. This placeholder will appear until you <a href=\"\/admin\/collections?tutorial=Frontpage\">add a product to this collection<\/a>.",
       "add_product": "製品を追加する",
       "product_title": "製品名",
@@ -488,13 +488,13 @@
       "newer_post": "新しい記事",
       "tags": "タグ",
       "comment_meta_html": "{{ author }} on {{ date }}",
-      "read_more": "Read more"
+      "read_more": "もっと読む"
     },
     "comments": {
       "title": "コメントを書く",
       "name": "名前",
       "email": "メールアドレス",
-      "message": "Message",
+      "message": "メッセージ",
       "post": "コメントを投稿",
       "moderated": "なお、コメントは公開前に承認される必要があります。",
       "success_moderated": "コメントは正常に掲載されました。当ブログはモデレートされているため、しばらくしてから公開します。",
@@ -528,7 +528,7 @@
       "savings_html": "{{ price }} のお得"
     },
     "label": {
-      "product": "Product",
+      "product": "商品",
       "price": "価格",
       "quantity": "数量",
       "total": "合計"
@@ -714,15 +714,15 @@
       "menu": "ナビゲーション"
     },
     "drawers": {
-      "browse": "Browse",
+      "browse": "閲覧する",
       "close_menu": "メニューを閉じる",
       "close": "閉じる"
     },
     "cart": {
       "title": "カート",
       "items_count": {
-        "one": "item",
-        "other": "items"
+        "one": "アイテム",
+        "other": "アイテム"
       }
     },
     "customer": {
@@ -780,7 +780,7 @@
       "shipping_policy_html": "<a href=\"{{ link }}\">Shipping<\/a> calculated at checkout.",
       "out_of_stock_html": "Click <a href=\"#\"><strong>here<\/strong><\/a> to be notified by email when {{ product }} becomes available.",
       "wrong_email": "有効なメールアドレスを入力してください。",
-      "out_of_stock_success": "Thanks! We will notify you when this product becomes available!",
+      "out_of_stock_success": "ありがとうございます。こちらの商品が入荷しましたらお知らせいたします。",
       "read_more_html": "もっと読む",
       "read_less_html": "Read less",
       "view_in_space": "View in your space",
@@ -795,8 +795,8 @@
       "check_other_stores": "他店舗の在庫状況を確認する",
       "pick_up_available": "ピックアップ可能",
       "pick_up_currently_unavailable": "現在お取り扱いしておりません。",
-      "pick_up_available_at_html": "Pickup available at <strong>{{ location_name }}<\/strong>",
-      "pick_up_unavailable_at_html": "Pickup currently unavailable at <strong>{{ location_name }}<\/strong>"
+      "pick_up_available_at_html": "<strong>{{ location_name }}<\/strong> 商品を直接受け取ることができます",
+      "pick_up_unavailable_at_html": "商品の直接受け取りは利用できません <strong>{{ location_name }}<\/strong>"
     }
   },
   "gift_cards": {
@@ -804,8 +804,8 @@
       "title": "Here's your {{ value }} gift card for {{ shop }}!",
       "subtext": "ギフトカードはこちら!",
       "disabled": "使用不可",
-      "expired": "Expired on {{ expiry }}",
-      "active": "Expires on {{ expiry }}",
+      "expired": "{{ expiry }} に期間切れ",
+      "active": "{{ expiry }} が有効期限",
       "redeem": "チェックアウト時にこのコードを使用して、ギフトカードをご利用ください。",
       "shop_link": "ショッピングを開始する",
       "print": "プリント",
@@ -832,10 +832,10 @@
         "sold_out": "売り切れ",
         "unavailable": "利用不可",
         "on_sale": "販売中",
-        "quantity": "Quantity",
+        "quantity": "數量",
         "add_to_cart": "カートへ追加",
         "back_to_collection": " {{ title }} へ戻る",
-        "view_details": "詳細を見る　"
+        "view_details": "詳細を見る"
       }
     },
     "article": {
@@ -864,7 +864,7 @@
       "login_form_message": "パスワードを使用してストアにログインする:",
       "login_form_password_label": "パスワード",
       "login_form_password_placeholder": "あなたのパスワード",
-      "login_form_submit": "Enter",
+      "login_form_submit": "入力する",
       "signup_form_email_label": "メールアドレス",
       "signup_form_success": "We will send you an email right before we open!",
       "password_link": "パスワードを使ってログインする"
