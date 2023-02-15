@@ -41,7 +41,8 @@
         "full_price": "全額：",
         "checkout_context": {
           "step_one": "{{ shop_name }} - お支払い"
-        }
+        },
+        "all_rights_reserved": "　"
       },
       "contact": {
         "title": "お客様情報",
