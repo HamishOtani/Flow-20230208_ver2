@@ -607,9 +607,9 @@
     },
     "addresses": {
       "title": "お客様情報",
-      "default": "Default",
-      "add_new": "Add a new address",
-      "edit_address": "Edit address",
+      "default": "デフォルト",
+      "add_new": "新しい住所を追加する",
+      "edit_address": "住所を編集する",
       "first_name": "姓",
       "last_name": "名",
       "company": "国",
