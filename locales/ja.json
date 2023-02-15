@@ -444,7 +444,7 @@
     },
     "search": {
       "no_results_html": " \"{{ terms }}\" に一致する商品はありませんでした。",
-      "results_for_html": " \"{{ terms }}\" で検索した結果がこちらになります:",
+      "results_for_html": " \"{{ terms }}\" で検索した結果がこちらになります",
       "title": "検索",
       "placeholder": " ",
       "submit": "検索",
