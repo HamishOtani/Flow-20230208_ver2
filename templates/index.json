@@ -177,22 +177,6 @@
         "content-position": "overlay"
       }
     },
-    "bbc9c4e6-4ea6-4d20-9820-9da76c97250b": {
-      "type": "collection--featured-collection",
-      "settings": {
-        "colors": "white",
-        "title": "ladies",
-        "richtext": "<p>吸水ショーツ<br\/><\/p><p>ごわつきがなく心地よい肌触りで、安心して1日を過ごせるショーツです。<br\/>スタンダードタイプと吸水量がさらにアップしたフルタイプからその日の量にあわせてお選びください。<\/p>",
-        "collection": "ladies",
-        "grid-desktop": 2,
-        "grid-tablet": 2,
-        "grid-mobile": 2,
-        "rows": 1,
-        "hover-effect": false,
-        "show-vendor": false,
-        "show_view_all": false
-      }
-    },
     "pagefly-home": {
       "type": "pagefly-home",
       "disabled": true,
@@ -525,12 +509,27 @@
       ],
       "settings": {
       }
+    },
+    "bbc9c4e6-4ea6-4d20-9820-9da76c97250b": {
+      "type": "collection--featured-collection",
+      "settings": {
+        "colors": "white",
+        "title": "",
+        "richtext": "",
+        "collection": "ladies",
+        "grid-desktop": 2,
+        "grid-tablet": 3,
+        "grid-mobile": 2,
+        "rows": 2,
+        "hover-effect": false,
+        "show-vendor": false,
+        "show_view_all": false
+      }
     }
   },
   "order": [
     "image-slideshow",
     "48b53a29-b055-4717-93a3-a3e8e44dfce2",
-    "bbc9c4e6-4ea6-4d20-9820-9da76c97250b",
     "pagefly-home",
     "26993829-837d-4091-ad28-32a42ffd723a",
     "dac1a005-fcf0-4967-89fc-fd70429697eb",
@@ -543,6 +542,7 @@
     "7128d2f4-05b6-43e4-bc41-52c06d97f235",
     "c0dae922-a48c-466a-818e-bab12d204f60",
     "b93e4193-91bf-492a-91af-ec9ad36ac676",
-    "e2fe7c68-c568-4af3-9b66-1bf6d966b0e1"
+    "e2fe7c68-c568-4af3-9b66-1bf6d966b0e1",
+    "bbc9c4e6-4ea6-4d20-9820-9da76c97250b"
   ]
 }
