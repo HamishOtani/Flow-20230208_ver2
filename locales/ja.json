@@ -523,7 +523,7 @@
       "update": "カートの更新",
       "checkout": "チェックアウト",
       "empty": "カートは空です。",
-      "continue_browsing_html": "　",
+      "continue_browsing_html": "<a href= \"https:\/\/amw-onlineshop.myshopify.com\/collections\/all-products\" >全ての商品<\/a>　",
       "close_cart": "カートを閉じる",
       "savings_html": "{{ price }} のお得"
     },
