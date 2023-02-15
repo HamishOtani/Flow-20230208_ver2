@@ -177,45 +177,6 @@
         "content-position": "overlay"
       }
     },
-    "1d135063-d67c-4aac-9a04-6952c3b02658": {
-      "type": "collection--featured-collection",
-      "custom_css": [
-
-      ],
-      "settings": {
-        "colors": "white",
-        "title": "ladies",
-        "richtext": "<p>吸水ショーツ<br\/><\/p><p>ごわつきがなく心地よい肌触りで、安心して1日を過ごせるショーツです。<br\/>スタンダードタイプと吸水量がさらにアップしたフルタイプからその日の量にあわせてお選びください。<\/p>",
-        "collection": "ladies",
-        "grid-desktop": 2,
-        "grid-tablet": 2,
-        "grid-mobile": 1,
-        "rows": 1,
-        "hover-effect": true,
-        "show-vendor": false,
-        "show_view_all": false
-      }
-    },
-    "62b98229-8c52-4aa0-aeed-0fda3644f0b6": {
-      "type": "image--image-with-text-overlay",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/technology_h11200.jpg",
-        "image_height": "30vw",
-        "bg_image_overlay_opacity": 15,
-        "parallax": true,
-        "title": "technology",
-        "text": "テクノロジー",
-        "colors": "light",
-        "textPosition": "center",
-        "textAlignment": "center",
-        "heading--text-size": 36,
-        "text--text-size": 16,
-        "link": "",
-        "button_label": "",
-        "button-text": "#ffffff",
-        "button-background": "#000000"
-      }
-    },
     "pagefly-home": {
       "type": "pagefly-home",
       "disabled": true,
@@ -549,53 +510,12 @@
       "settings": {
       }
     },
-    "b41cd308-fa45-4f88-8975-c5c53d5082bf": {
-      "type": "collection--collection-list",
-      "blocks": {
-        "template--17938310496556__b41cd308-fa45-4f88-8975-c5c53d5082bf-1676446178676dac3e-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "",
-            "subheading": "Subheading",
-            "overlay-btn-text": "Shop now",
-            "show-gradient-overlay": true,
-            "overlay_font_color": "#ffffff",
-            "overlay_color": "#323232"
-          }
-        },
-        "template--17938310496556__b41cd308-fa45-4f88-8975-c5c53d5082bf-1676446178676dac3e-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "",
-            "subheading": "Subheading",
-            "overlay-btn-text": "Shop now",
-            "show-gradient-overlay": true,
-            "overlay_font_color": "#ffffff",
-            "overlay_color": "#323232"
-          }
-        }
-      },
-      "block_order": [
-        "template--17938310496556__b41cd308-fa45-4f88-8975-c5c53d5082bf-1676446178676dac3e-0",
-        "template--17938310496556__b41cd308-fa45-4f88-8975-c5c53d5082bf-1676446178676dac3e-1"
-      ],
-      "settings": {
-        "colors": "light",
-        "title": "Featured Collections",
-        "richtext": "",
-        "items-per-row": 3,
-        "fill-the-area": true,
-        "remove-spacing": false,
-        "section-width": "full",
-        "content-position": "overlay"
-      }
-    },
-    "6a988d70-c956-4e96-867b-361244580b06": {
+    "c8e98798-5e27-4104-b7d4-2453f2b20b1e": {
       "type": "collection--featured-collection",
       "settings": {
         "colors": "white",
         "title": "",
-        "richtext": "",
+        "richtext": "<p>吸水ショーツ<\/p><p>ごわつきがなく心地よい肌触りで、安心して1日を過ごせるショーツです。<br\/>スタンダードタイプと吸水量がさらにアップしたフルタイプからその日の量にあわせてお選びください。<\/p>",
         "collection": "ladies",
         "grid-desktop": 2,
         "grid-tablet": 2,
@@ -610,8 +530,6 @@
   "order": [
     "image-slideshow",
     "48b53a29-b055-4717-93a3-a3e8e44dfce2",
-    "1d135063-d67c-4aac-9a04-6952c3b02658",
-    "62b98229-8c52-4aa0-aeed-0fda3644f0b6",
     "pagefly-home",
     "26993829-837d-4091-ad28-32a42ffd723a",
     "dac1a005-fcf0-4967-89fc-fd70429697eb",
@@ -625,7 +543,6 @@
     "c0dae922-a48c-466a-818e-bab12d204f60",
     "b93e4193-91bf-492a-91af-ec9ad36ac676",
     "e2fe7c68-c568-4af3-9b66-1bf6d966b0e1",
-    "b41cd308-fa45-4f88-8975-c5c53d5082bf",
-    "6a988d70-c956-4e96-867b-361244580b06"
+    "c8e98798-5e27-4104-b7d4-2453f2b20b1e"
   ]
 }
